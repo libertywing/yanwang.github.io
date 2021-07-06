@@ -1,26 +1,23 @@
-# Welcome to Lemao's Homepage
+# Welcome to Yan Wang's Homepage
 
-My name is Lemao Liu. I am currently a senior researcher at Tencent AI Lab, working on (human-machine interactive) machine translation, parsing, natural language processing and their related topics. I am a member of [LAT group](lat.md) and you can reach me through NAME at gmail dot com (NAME=lemaoliu).
+My name is Yan Wang. I am currently a senior researcher at Tencent AI Lab, working on Dialogue and Text Generation. Before join Tencent, I recieved my Ph.D. degree at City University of Hong Kong (CityU) in July 2017, under the instructions of Prof. Hanxiong Li. 
 
 ## More about me
-
-I am from Yugan in Jiangxi Provice, which is a small yet beautiful county near Poyang Lake, the largest freshwater lake in China. I earned my Ph.D. degree at Harbin Institute of Technology (HIT) in Oct. 2013, under the instructions of Prof. Tiejun Zhao at HIT and Dr. Taro Watanabe at NICT. After that, I was a postdoc researcher at the City University of New York, working with Prof. Liang Huang; and then I was a researcher at NICT Japan between Sept. 2014 and March 2017. 
+As the captain of Tencent Technology and Engineering Group and Tencent AI Lab, I have won one championship and two runners-up in Tencent. Before that, I served as the captain of the CityU post-graduate basketball team and won seven championships in Hong Kong. Furthermore, I met my wife on the basketball team, she was the captain of the CityU female post-graduate basketball team.
 
 ## News
-- 2021/05: Seven papers accepted by ACL 2021. 
-- 2020/04: Two papers accepted by ACL 2020.
-- 2020/02: One paper accepted by JAIR.
+- 2021/07: Paper "Neural Machine Translation with Monolingual Translation Memory" was selected as the outstanding paper of ACL 2021. 
+- 2021/06: Two papers accepted by IEEE Transaction on Games. 
+- 2021/05: Four long papers accepted by ACL 2021 (3 Main and 1 Findings). 
+- 2020/09: Two long papers accepted by EMNLP 2020. (Main)
 
 
 ## Opening Positions
-I have some intern positions available at NLP center, Tencent AI Lab. If you have any interests, welcome to drop me an email. 
+I have some intern positions available at NLP center, Tencent AI Lab. If you have any interests or enquires, please feel free to sent me an email. 
+
+We also recruit full-time emploiees, please refer to https://ai.tencent.com/ailab/nlp/en/hiring/employee.html for more details. Contact me for internal recommendation. 
 
 
-
-## Professional Activities
-- IJCAI 2021 (Senior Program Committee)
-- Findings of EMNLP 2020 (Publication Co-chair)
-- Standing Reviewers: Computational Linguistics, Transaction of ACL 
 
 
 ## Selected Publications
