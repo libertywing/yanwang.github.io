@@ -18,12 +18,12 @@ About ten years ago, I dreamed to be a professional E-sports player (RTS game). 
 ## Opening Positions
 I have some intern positions available at NLP center, Tencent AI Lab. If you have any interests or enquires, please feel free to sent me an email. 
 
-We also recruit full-time emploiees, please refer to https://ai.tencent.com/ailab/nlp/en/hiring/employee.html for more details. Contact me for internal recommendation. 
+We also recruit full-time emploiees, please refer to [[Recruitment link](https://ai.tencent.com/ailab/nlp/en/hiring/employee.html)] for more details. Contact me for internal recommendation. 
 
 
 
 
-## Recent Publications (*=corresponding author, for full publication list, please check [publication page](publications.md))  
+## Recent Publications (*=corresponding author)  
 
 #### Retrieval-Guided Dialogue Generation
 
@@ -73,7 +73,7 @@ We also recruit full-time emploiees, please refer to https://ai.tencent.com/aila
 - Binger Jiang (phd student at McGill University)
 
 
-#### Past Interns
+<!-- #### Past Interns
 - Jing Qian (phd student at UCSB, 06/2020 - 09/2020)
 - Honglin Han (engineering intern, undergraduate student at HIT, 04/2020 - 09/2020)
 - Jierui Li (undergraduate student at UESTC, 11/2019 - 06/2020)
@@ -93,5 +93,5 @@ We also recruit full-time emploiees, please refer to https://ai.tencent.com/aila
 
 
 ### Colleagues 
-- Eiichiro Sumita, Masao Utiyama, Andrew Finch, Akihiro Tamura, Atsushi Fujita, Rui Wang, Xugang Lu, Peng Shen.
+- Eiichiro Sumita, Masao Utiyama, Andrew Finch, Akihiro Tamura, Atsushi Fujita, Rui Wang, Xugang Lu, Peng Shen. -->
 
