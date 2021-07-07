@@ -69,8 +69,8 @@ We also recruit full-time emploiees, please refer to https://ai.tencent.com/aila
 ### Interns 
 
 #### Current Interns
-- Guanlin Li (phd student at HIT, 12/2017 - )
-- Yibin Liu (engineering intern, master student at Peking Shenzhen, 11/2020 - )
+- Tian Lan (phd student at Beijing Institute of Technology)
+- Binger Jiang (phd student at McGill University)
 
 
 #### Past Interns
