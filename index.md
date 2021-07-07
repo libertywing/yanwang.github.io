@@ -2,12 +2,6 @@
 
 My name is Yan Wang. I am currently a senior researcher at Tencent AI Lab, working on Dialogue and Text Generation. Before join Tencent, I recieved my Ph.D. degree at City University of Hong Kong (CityU) in July 2017, under the instructions of Prof. Hanxiong Li. 
 
-## Life & Hobbies
-As the captain of Tencent Technology and Engineering Group and Tencent AI Lab, I have won one championship and two runners-up in Tencent. Before that, I served as the captain of the CityU post-graduate basketball team and won seven championships in Hong Kong. Furthermore, I met my wife on the basketball team, who was the captain of the CityU female post-graduate basketball team.
-
-I also served as the Chair of Fitness association of Tencent Technology and Engineering Group. 
-
-About ten years ago, I dreamed to be a professional E-sports player (RTS game). Now I am still a top-1000 player in the world in Warcraft III Ladder.
 ## News
 - 2021/07: Paper "Neural Machine Translation with Monolingual Translation Memory" was selected as the outstanding paper of ACL 2021. 
 - 2021/06: One papers accepted by IEEE Transaction on Games. 
@@ -94,4 +88,12 @@ We also recruit full-time emploiees, please refer to [[Recruitment link](https:/
 
 ### Colleagues 
 - Eiichiro Sumita, Masao Utiyama, Andrew Finch, Akihiro Tamura, Atsushi Fujita, Rui Wang, Xugang Lu, Peng Shen. -->
+
+
+## Life & Hobbies
+As the captain of Tencent Technology and Engineering Group and Tencent AI Lab, I have won one championship and two runners-up in Tencent. Before that, I served as the captain of the CityU post-graduate basketball team and won seven championships in Hong Kong. Furthermore, I met my wife on the basketball team, who was the captain of the CityU female post-graduate basketball team.
+
+I also served as the Chair of Fitness association of Tencent Technology and Engineering Group. 
+
+About ten years ago, I dreamed to be a professional E-sports player (RTS game). Now I am still a top-1000 player in the world in Warcraft III Ladder.
 
