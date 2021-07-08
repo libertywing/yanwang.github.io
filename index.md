@@ -4,7 +4,7 @@ My name is Yan Wang. I am currently a senior researcher at Tencent AI Lab, worki
 
 ## News
 - 2021/07: Paper "Neural Machine Translation with Monolingual Translation Memory" was selected as the outstanding paper of ACL 2021. 
-- 2021/06: One papers accepted by IEEE Transaction on Games. 
+- 2021/06: Two papers accepted by IEEE Transaction on Games, One paper accepted by TASLP. 
 - 2021/05: Four long papers accepted by ACL 2021 (3 Main and 1 Findings). 
 - 2020/09: Two long papers accepted by EMNLP 2020. (Main)
 
@@ -54,7 +54,11 @@ We also recruit full-time emploiees, please refer to [[Recruitment link](https:/
 
 - Yan Wang, Xiaojiang Liu, Shuming Shi. Deep Neural Solver for Math Word Problems. Proceedings of EMNLP 2017. [[paper](https://aclanthology.org/D17-1088.pdf)]
 
+#### Game AI
 
+- Zelong Yang, Zhufeng Pan, Yan Wang*, Deng Cai, Xiaojiang Liu, Shuming Shi, Shao-Lun Huang. Interpretable real-time win prediction for honor of kings, a popular mobile moba esport. IEEE Transaction on Games.
+
+- Zelong Yang, Yan Wang, Piji Li, Shaobin Lin, Shuming Shi, Shao-Lun Huang. Predicting Events in MOBA Games: Dataset, Attribution, and Evaluation. IEEE Transaction on Games.
 
 <p><a href="publications.md"> :arrow_right:  full list</a></p>
 
@@ -85,9 +89,9 @@ We also recruit full-time emploiees, please refer to [[Recruitment link](https:/
 
 
 ## Life & Hobbies
-As the captain of Tencent Technology and Engineering Group and Tencent AI Lab, I have won one championship and two runners-up in Tencent. Before that, I served as the captain of the CityU post-graduate basketball team and won seven championships in Hong Kong. Furthermore, I met my wife on the basketball team, who was the captain of the CityU female post-graduate basketball team.
+As the captain of the Tencent Technology and Engineering Group basketball team, I have won one championship and two runners-up in Tencent. Before that, I served as the captain of the CityU post-graduate basketball team and won seven championships in Hong Kong. Furthermore, I met my wife on the basketball team, who was the captain of the CityU female post-graduate basketball team.
 
-I also served as the Chair of Fitness association of Tencent Technology and Engineering Group. 
+I also served as the Chair of the Fitness Association of Tencent Technology and Engineering Group. 
 
 About ten years ago, I dreamed to be a professional E-sports player (RTS game). Now I am still a top-1000 player in the world in Warcraft III Ladder.
 
