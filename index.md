@@ -42,17 +42,17 @@ We also recruit full-time emploiees, please refer to [[Recruitment link](https:/
 
 - Haoyu Song, Yan Wang, Kaiyan Zhang, Wei-Nan Zhang, Ting Liu. BoB: BERT Over BERT for Training Persona-based Dialogue Models from Limited Personalized Data. Proceedings of ACL 2021. [[paper](https://arxiv.org/pdf/2106.06169.pdf)]
 
-- Haoyu Song, Yan Wang, Wei-Nan Zhang, Zhengyu Zhao, Ting Liu, Xiaojiang Liu. Profile Consistency Identification for Open-domain Dialogue Agents. Proceedings of EMNLP 2020. [[paper](https://aclanthology.org/2020.emnlp-main.539.pdf)
+- Haoyu Song, Yan Wang, Wei-Nan Zhang, Zhengyu Zhao, Ting Liu, Xiaojiang Liu. Profile Consistency Identification for Open-domain Dialogue Agents. Proceedings of EMNLP 2020. [[paper](https://aclanthology.org/2020.emnlp-main.539.pdf)]
 
 - Haoyu Song, Yan Wang, Wei-Nan Zhang, Xiaojiang Liu, Ting Liu. Generate, Delete and Rewrite: A Three-Stage Framework for Improving Persona Consistency of Dialogue Generation. Proceedings of ACL 2020. [[paper](https://aclanthology.org/2020.acl-main.516.pdf)]
 
 #### Text Generation
 
-- Yixuan Su, Deng Cai, Yan Wang, David Vandyke, Simon Baker, Piji Li, Nigel Collier. Non-autoregressive Text Generation With Pre-trained Language Models. Proceedings of EACL 2021. [[paper](https://arxiv.org/pdf/2102.08220.pdf)
+- Yixuan Su, Deng Cai, Yan Wang, David Vandyke, Simon Baker, Piji Li, Nigel Collier. Non-autoregressive Text Generation With Pre-trained Language Models. Proceedings of EACL 2021. [[paper](https://arxiv.org/pdf/2102.08220.pdf)]
 
-- Lei Wang, Yan Wang, Deng Cai, Dongxiang Zhang, Xiaojiang Liu. Translating a Math Word Problem to a Expression Tree. Proceedings of EMNLP 2018. [[paper](https://aclanthology.org/D18-1132.pdf)
+- Lei Wang, Yan Wang, Deng Cai, Dongxiang Zhang, Xiaojiang Liu. Translating a Math Word Problem to a Expression Tree. Proceedings of EMNLP 2018. [[paper](https://aclanthology.org/D18-1132.pdf)]
 
-- Yan Wang, Xiaojiang Liu, Shuming Shi. Deep Neural Solver for Math Word Problems. Proceedings of EMNLP 2017. [[paper](https://aclanthology.org/D17-1088.pdf)
+- Yan Wang, Xiaojiang Liu, Shuming Shi. Deep Neural Solver for Math Word Problems. Proceedings of EMNLP 2017. [[paper](https://aclanthology.org/D17-1088.pdf)]
 
 
 
@@ -63,31 +63,25 @@ We also recruit full-time emploiees, please refer to [[Recruitment link](https:/
 ### Interns 
 
 #### Current Interns
-- Tian Lan (phd student at Beijing Institute of Technology)
-- Binger Jiang (phd student at McGill University)
+- Tian Lan (PhD student at Beijing Institute of Technology)
+- [[Binger Jiang](https://mcqll.org/people/jiang.binger/)] (PhD student at McGill University)
+- Lingyun Feng (graduate student at Tsinghua University)
+- Dongyang Ma (graduate student at Harbin Institute of Technology)
+- Tianyu Yu (graduate student at Tsinghua University)
 
-
-<!-- #### Past Interns
-- Jing Qian (phd student at UCSB, 06/2020 - 09/2020)
-- Honglin Han (engineering intern, undergraduate student at HIT, 04/2020 - 09/2020)
-- Jierui Li (undergraduate student at UESTC, 11/2019 - 06/2020)
-- Runze Nie (engineering intern, graduate student at Univ. Melbourne, 12/2019 - 03/2020)
-- Tianxiang Zhao (graduate student at USTC, 01/2019 - 06/2019; now phd student at PSU)
-- Xintong Li (phd student at CUHK, 07/2017 - 05/2019; now postdoc at OSU)
-- Mengzhou Xia (undergraduate student at Fudan, 04/2018 - 08/2018; now phd student at Princeton)
-- Yu Liu (ph.d student at HIT, 04/2018 - 11/2018)
-- Lianhui Qin (graduate student at SHJT, 07/2017 - 09/2017; now phd student at UW) 
-- Chunpeng Ma (phd student at HIT, 10/2015 - 03/2016) 
-- Kehai Chen (phd student at HIT, 10/2017 - 03/2017; now researcher at NICT)
-
-
-### Visitors
-- Zhangming Chan (Tencent Rhino-Bird Scholar from Peking Univ., 05/2020 - )
-- Conghui Zhu (Tencent Rhino-Bird Visiting Prof. from HIT, 06/2019 - 01/2020)
-
-
-### Colleagues 
-- Eiichiro Sumita, Masao Utiyama, Andrew Finch, Akihiro Tamura, Atsushi Fujita, Rui Wang, Xugang Lu, Peng Shen. -->
+#### Past Interns
+- [[Deng Cai](https://jcyk.github.io/)] (PhD student at CUHK, ACL 2021 Outstanding Paper Award, 02/2018 - 03/2021)
+- Zibo Lin (Tencent, 08/2019 - 03/2021)
+- Zelong Yang (China Aerospace Science and Technology Corporation, 08/2019 - 03/2021)
+- Haoyu Song (PhD student at Harbin Institute of Technology, 11/2019 - 03/2021)
+- Xiangru Tang (graduate student at Yale University, 06/2020 - 09/2020)
+- Changying Hao (Baidu, 04/2020 - 09/2020)
+- Yixuan Su (PhD student at University of Cambridge, 10/2018 - 08/2019, 05/2020 - 07/2021)
+- [[Jiaxin Pei](https://jiaxin-pei.github.io/)] (PhD student at University of Michigan, 03/2019 -  08/2019)
+- [[Zhufeng Pan](https://www.linkedin.com/in/panzhufeng/)] (Google Brain, 10/2018 - 09/2019)
+- Ziyang Chen (Tencent, 03/2018 - 09/2018)
+- Xuan Wang (China Telecom, 03/2018 - 06/2019)
+- Lei Wang (phd student at Singapore Management University, 11/2017 - 03/2018)
 
 
 ## Life & Hobbies
