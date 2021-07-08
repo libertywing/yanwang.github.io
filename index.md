@@ -68,21 +68,21 @@ We also recruit full-time emploiees, please refer to [[Recruitment link](https:/
 
 #### Current Interns
 - Tian Lan (PhD student at Beijing Institute of Technology)
-- [[Binger Jiang](https://mcqll.org/people/jiang.binger/)] (PhD student at McGill University)
+- [Binger Jiang](https://mcqll.org/people/jiang.binger/) (PhD student at McGill University)
 - Lingyun Feng (graduate student at Tsinghua University)
 - Dongyang Ma (graduate student at Harbin Institute of Technology)
 - Tianyu Yu (graduate student at Tsinghua University)
 
 #### Past Interns
-- [[Deng Cai](https://jcyk.github.io/)] (PhD student at CUHK, ACL 2021 Outstanding Paper Award, 02/2018 - 03/2021)
+- [Deng Cai](https://jcyk.github.io/) (PhD student at CUHK, ACL 2021 Outstanding Paper Award, 02/2018 - 03/2021)
 - Zibo Lin (Tencent, 08/2019 - 03/2021)
 - Zelong Yang (China Aerospace Science and Technology Corporation, 08/2019 - 03/2021)
 - Haoyu Song (PhD student at Harbin Institute of Technology, 11/2019 - 03/2021)
 - Xiangru Tang (graduate student at Yale University, 06/2020 - 09/2020)
 - Changying Hao (Baidu, 04/2020 - 09/2020)
 - Yixuan Su (PhD student at University of Cambridge, 10/2018 - 08/2019, 05/2020 - 07/2021)
-- [[Jiaxin Pei](https://jiaxin-pei.github.io/)] (PhD student at University of Michigan, 03/2019 -  08/2019)
-- [[Zhufeng Pan](https://www.linkedin.com/in/panzhufeng/)] (Google Brain, 10/2018 - 09/2019)
+- [Jiaxin Pei](https://jiaxin-pei.github.io/) (PhD student at University of Michigan, 03/2019 -  08/2019)
+- [Zhufeng Pan](https://www.linkedin.com/in/panzhufeng/) (Google Brain, 10/2018 - 09/2019)
 - Ziyang Chen (Tencent, 03/2018 - 09/2018)
 - Xuan Wang (China Telecom, 03/2018 - 06/2019)
 - Lei Wang (phd student at Singapore Management University, 11/2017 - 03/2018)
