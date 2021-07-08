@@ -60,7 +60,7 @@ We also recruit full-time emploiees, please refer to [[Recruitment link](https:/
 
 - Zelong Yang, Yan Wang, Piji Li, Shaobin Lin, Shuming Shi, Shao-Lun Huang. Predicting Events in MOBA Games: Dataset, Attribution, and Evaluation. IEEE Transaction on Games.
 
-<p><a href="publications.md"> :arrow_right:  full list</a></p>
+<!-- <p><a href="publications.md"> :arrow_right:  full list</a></p> -->
 
 ## Collaborators
 
