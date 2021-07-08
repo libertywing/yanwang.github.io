@@ -62,9 +62,7 @@ We also recruit full-time emploiees, please refer to [[Recruitment link](https:/
 
 <!-- <p><a href="publications.md"> :arrow_right:  full list</a></p> -->
 
-## Collaborators
-
-### Interns 
+## Interns 
 
 #### Current Interns
 - Tian Lan (PhD student at Beijing Institute of Technology)
@@ -87,6 +85,10 @@ We also recruit full-time emploiees, please refer to [[Recruitment link](https:/
 - Xuan Wang (China Telecom, 03/2018 - 06/2019)
 - Lei Wang (phd student at Singapore Management University, 11/2017 - 03/2018)
 
+## Collaborators
+- [Ruihua Song](http://ai.ruc.edu.cn/student/tutorGroup/048f1a24a0174c70912e5f29f145c7db.htm) (associate professor at Renmin University of China, Tencent rhinobird cooperation project)
+- [Liang Pang](http://www.bigdatalab.ac.cn/~pangliang/) (assistant professor at Institute of Computing Technology, Chinese Academy of Sciences, Tencent rhinobird cooperation project)
+- [Weinan Zhang](http://ir.hit.edu.cn/~wnzhang/) (associate professor at Harbin Institute of Technology, Tencent-HIT joint Lab)
 
 ## Life & Hobbies
 As the captain of the Tencent Technology and Engineering Group basketball team, I have won one championship and two runners-up in Tencent. Before that, I served as the captain of the CityU post-graduate basketball team and won seven championships in Hong Kong. Furthermore, I met my wife on the basketball team, who was the captain of the CityU female post-graduate basketball team.
