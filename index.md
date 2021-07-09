@@ -32,9 +32,9 @@ We also recruit full-time emploiees, please refer to [Recruitment link](https://
 
 #### Multi-turn Dialogue Understanding
 
-- Yixuan Su, Deng Cai*, Qingyu Zhou, Zibo Lin, Simon Baker, Yunbo Cao, Shuming Shi, Nigel Collier, Yan Wang. Dialogue Response Selection with Hierarchical Curriculum Learning. Proceedings of ACL 2021. [[paper](https://arxiv.org/pdf/2012.14756.pdf)
+- Yixuan Su, Deng Cai, Qingyu Zhou, Zibo Lin, Simon Baker, Yunbo Cao, Shuming Shi, Nigel Collier, Yan Wang*. Dialogue Response Selection with Hierarchical Curriculum Learning. Proceedings of ACL 2021. [[paper](https://arxiv.org/pdf/2012.14756.pdf)
 
-- Zibo Lin, Deng Cai*, Yan Wang, Xiaojiang Liu, Hai-Tao Zheng, Shuming Shi. The World is Not Binary: Learning to Rank with Grayscale Data for Dialogue Response Selection. Proceedings of EMNLP 2020. [[paper](https://aclanthology.org/2020.emnlp-main.741.pdf)]
+- Zibo Lin, Deng Cai, Yan Wang*, Xiaojiang Liu, Hai-Tao Zheng, Shuming Shi. The World is Not Binary: Learning to Rank with Grayscale Data for Dialogue Response Selection. Proceedings of EMNLP 2020. [[paper](https://aclanthology.org/2020.emnlp-main.741.pdf)]
 
 - Zhufeng Pan, Kun Bai, Yan Wang*, Lianqiang Zhou, Xiaojiang Liu. Improving Open-Domain Dialogue Systems via Multi-Turn Incomplete Utterance Restoration. Proceedings of EMNLP 2019. [[paper](https://aclanthology.org/D19-1191.pdf)]
 
@@ -58,7 +58,7 @@ We also recruit full-time emploiees, please refer to [Recruitment link](https://
 
 - Zelong Yang, Zhufeng Pan, Yan Wang*, Deng Cai, Xiaojiang Liu, Shuming Shi, Shao-Lun Huang. Interpretable real-time win prediction for honor of kings, a popular mobile moba esport. IEEE Transaction on Games.
 
-- Zelong Yang, Yan Wang, Piji Li, Shaobin Lin, Shuming Shi, Shao-Lun Huang. Predicting Events in MOBA Games: Dataset, Attribution, and Evaluation. IEEE Transaction on Games.
+- Zelong Yang, Yan Wang*, Piji Li, Shaobin Lin, Shuming Shi, Shao-Lun Huang. Predicting Events in MOBA Games: Dataset, Attribution, and Evaluation. IEEE Transaction on Games.
 
 <!-- <p><a href="publications.md"> :arrow_right:  full list</a></p> -->
 
@@ -83,7 +83,7 @@ We also recruit full-time emploiees, please refer to [Recruitment link](https://
 - [Zhufeng Pan](https://www.linkedin.com/in/panzhufeng/) (Google Brain, 10/2018 - 09/2019)
 - Ziyang Chen (Tencent, 03/2018 - 09/2018)
 - Xuan Wang (China Telecom, 03/2018 - 06/2019)
-- Lei Wang (phd student at Singapore Management University, 11/2017 - 03/2018)
+- Lei Wang (PhD student at Singapore Management University, 11/2017 - 03/2018)
 
 ## Collaborators
 - [Ruihua Song](http://ai.ruc.edu.cn/student/tutorGroup/048f1a24a0174c70912e5f29f145c7db.htm) (associate professor at Renmin University of China, Tencent rhinobird cooperation project)
