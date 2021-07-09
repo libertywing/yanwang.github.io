@@ -12,7 +12,7 @@ My name is Yan Wang. I am currently a senior researcher at Tencent AI Lab, worki
 ## Opening Positions
 I have some intern positions available at NLP center, Tencent AI Lab. If you have any interests or enquires, please feel free to sent me an email. 
 
-We also recruit full-time emploiees, please refer to [[Recruitment link](https://ai.tencent.com/ailab/nlp/en/hiring/employee.html)] for more details. Contact me for internal recommendation. 
+We also recruit full-time emploiees, please refer to [Recruitment link](https://ai.tencent.com/ailab/nlp/en/hiring/employee.html) for more details. Contact me for internal recommendation. 
 
 
 
