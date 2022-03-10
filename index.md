@@ -17,7 +17,7 @@ We also recruit full-time emploiees, please refer to [Recruitment link](https://
 
 
 
-## Recent Publications (*=corresponding author)  
+## Selected Publications (*=corresponding author)  
 
 #### Retrieval-Guided Dialogue Generation
 
@@ -47,6 +47,7 @@ We also recruit full-time emploiees, please refer to [Recruitment link](https://
 - Haoyu Song, Yan Wang, Wei-Nan Zhang, Xiaojiang Liu, Ting Liu. Generate, Delete and Rewrite: A Three-Stage Framework for Improving Persona Consistency of Dialogue Generation. Proceedings of ACL 2020. [[paper](https://aclanthology.org/2020.acl-main.516.pdf)]
 
 #### Text Generation
+- Yixuan Su, Tian Lan, Yan Wang, Dani Yogatama, Lingpeng Kong, Nigel Collier. A Contrastive Framework for Neural Text Generation. Arxiv. [[paper](https://arxiv.org/abs/2202.06417)]
 
 - Yixuan Su, Deng Cai, Yan Wang, David Vandyke, Simon Baker, Piji Li, Nigel Collier. Non-autoregressive Text Generation With Pre-trained Language Models. Proceedings of EACL 2021. [[paper](https://arxiv.org/pdf/2102.08220.pdf)]
 
@@ -75,14 +76,13 @@ We also recruit full-time emploiees, please refer to [Recruitment link](https://
 - [Deng Cai](https://jcyk.github.io/) (PhD student at CUHK, ACL 2021 Outstanding Paper Award, 02/2018 - 03/2021)
 - Zibo Lin (Tencent, 08/2019 - 03/2021)
 - Zelong Yang (China Aerospace Science and Technology Corporation, 08/2019 - 03/2021)
-- Haoyu Song (PhD student at Harbin Institute of Technology, 11/2019 - 03/2021)
-- Xiangru Tang (PhD student at Yale University, 06/2020 - 09/2020)
+- [Haoyu Song](https://songhaoyu.github.io/) (PhD student at Harbin Institute of Technology, 11/2019 - 03/2021)
+- [Xiangru Tang](https://xiangrutang.github.io/) (PhD student at Yale University, 06/2020 - 09/2020)
 - Changying Hao (Baidu, 04/2020 - 09/2020)
-- Yixuan Su (PhD student at University of Cambridge, 10/2018 - 08/2019, 05/2020 - 07/2021)
+- [Yixuan Su](https://yxuansu.github.io/) (PhD student at University of Cambridge, 10/2018 - 08/2019, 05/2020 - 07/2021)
 - [Jiaxin Pei](https://jiaxin-pei.github.io/) (PhD student at University of Michigan, 03/2019 -  08/2019)
 - [Zhufeng Pan](https://www.linkedin.com/in/panzhufeng/) (Google Brain, 10/2018 - 09/2019)
 - Ziyang Chen (Tencent, 03/2018 - 09/2018)
-- Xuan Wang (China Telecom, 03/2018 - 06/2019)
 - Lei Wang (PhD student at Singapore Management University, 11/2017 - 03/2018)
 
 ## Collaborators
