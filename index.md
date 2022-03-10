@@ -66,17 +66,17 @@ We also recruit full-time emploiees, please refer to [Recruitment link](https://
 
 #### Current Interns
 - Tian Lan (PhD student at Beijing Institute of Technology)
-- [Binger Jiang](https://mcqll.org/people/jiang.binger/) (PhD student at McGill University)
-- Lingyun Feng (graduate student at Tsinghua University)
 - Dongyang Ma (graduate student at Harbin Institute of Technology)
-- Tianyu Yu (graduate student at Tsinghua University)
+- Nuo chen (PhD student at HKUST)
+- Ziqian Dai (graduate student at Beijing University)
+- Junxin Li (Tsinghua student at Beijing University)
 
 #### Past Interns
 - [Deng Cai](https://jcyk.github.io/) (PhD student at CUHK, ACL 2021 Outstanding Paper Award, 02/2018 - 03/2021)
 - Zibo Lin (Tencent, 08/2019 - 03/2021)
 - Zelong Yang (China Aerospace Science and Technology Corporation, 08/2019 - 03/2021)
 - Haoyu Song (PhD student at Harbin Institute of Technology, 11/2019 - 03/2021)
-- Xiangru Tang (graduate student at Yale University, 06/2020 - 09/2020)
+- Xiangru Tang (PhD student at Yale University, 06/2020 - 09/2020)
 - Changying Hao (Baidu, 04/2020 - 09/2020)
 - Yixuan Su (PhD student at University of Cambridge, 10/2018 - 08/2019, 05/2020 - 07/2021)
 - [Jiaxin Pei](https://jiaxin-pei.github.io/) (PhD student at University of Michigan, 03/2019 -  08/2019)
@@ -86,6 +86,7 @@ We also recruit full-time emploiees, please refer to [Recruitment link](https://
 - Lei Wang (PhD student at Singapore Management University, 11/2017 - 03/2018)
 
 ## Collaborators
+- [Lingpeng Kong](https://ikekonglp.github.io/) (assistant professor at the University of Hong Kong, Tencent rhinobird cooperation project)
 - [Ruihua Song](http://ai.ruc.edu.cn/student/tutorGroup/048f1a24a0174c70912e5f29f145c7db.htm) (associate professor at Renmin University of China, Tencent rhinobird cooperation project)
 - [Liang Pang](http://www.bigdatalab.ac.cn/~pangliang/) (assistant professor at Institute of Computing Technology, Chinese Academy of Sciences, Tencent rhinobird cooperation project)
 - [Weinan Zhang](http://ir.hit.edu.cn/~wnzhang/) (associate professor at Harbin Institute of Technology, Tencent-HIT joint Lab)
