@@ -4,6 +4,7 @@ My name is 王琰 (Yan Wang). I am currently a senior researcher at Tencent AI L
 
 ## News
 - (forthcoming) Co-organize a tutorial on Retrieval-Augmented Text Generation at IJCAI 2022
+- (forthcoming) Co-organize a tutorial on Retrieval-Augmented Text Generation at IJCAI 2022
 - 2022/04: Our AI writing assitant, Effidit (文涌) , was lanuched. [Link](https://effidit.qq.com/)
 - 2021/07: Paper "Neural Machine Translation with Monolingual Translation Memory" was selected as the outstanding paper of ACL 2021. 
 - 2021/06: Two papers accepted by IEEE Transaction on Games, One paper accepted by TASLP. 
@@ -71,7 +72,6 @@ We also recruit full-time emploiees, please refer to [Recruitment link](https://
 - Tian Lan (PhD student at Beijing Institute of Technology)
 - Dongyang Ma (graduate student at Harbin Institute of Technology)
 - Nuo chen (PhD student at HKUST)
-- Ziqian Dai (graduate student at Beijing University)
 - Junxin Li (Tsinghua student at Beijing University)
 
 #### Past Interns
@@ -84,6 +84,7 @@ We also recruit full-time emploiees, please refer to [Recruitment link](https://
 - [Yixuan Su](https://yxuansu.github.io/) (PhD student at University of Cambridge, 10/2018 - 08/2019, 05/2020 - 07/2021)
 - [Jiaxin Pei](https://jiaxin-pei.github.io/) (PhD student at University of Michigan, 03/2019 -  08/2019)
 - [Zhufeng Pan](https://www.linkedin.com/in/panzhufeng/) (Google Brain, 10/2018 - 09/2019)
+- Ziqian Dai (graduate student at Beijing University)
 - Ziyang Chen (Tencent, 03/2018 - 09/2018)
 - Lei Wang (PhD student at Singapore Management University, 11/2017 - 03/2018)
 
