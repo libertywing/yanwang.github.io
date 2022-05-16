@@ -3,7 +3,7 @@
 My name is 王琰 (Yan Wang). I am currently a senior researcher at Tencent AI Lab, working on Dialogue and Text Generation. Before join Tencent, I recieved my Ph.D. degree at City University of Hong Kong (CityU) in July 2017, under the instructions of Prof. Hanxiong Li. You can reach me through ALIAS at Tencent dot com (ALIAS = brandenwang)
 
 ## News
-- (forthcoming) Co-organize a tutorial on Retrieval-Augmented Text Generation at IJCAI 2022
+- (forthcoming) Co-organize a tutorial on Retrieval-Augmented Text Generation at SIGIR 2022
 - (forthcoming) Co-organize a tutorial on Retrieval-Augmented Text Generation at IJCAI 2022
 - 2022/04: Our AI writing assitant, Effidit (文涌) , was lanuched. [Link](https://effidit.qq.com/)
 - 2021/07: Paper "Neural Machine Translation with Monolingual Translation Memory" was selected as the outstanding paper of ACL 2021. 
