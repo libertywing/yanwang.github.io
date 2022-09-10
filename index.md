@@ -3,6 +3,8 @@
 My name is 王琰 (Yan Wang). I am currently a senior researcher at Tencent AI Lab, working on Dialogue and Text Generation. Before join Tencent, I recieved my Ph.D. degree at City University of Hong Kong (CityU) in July 2017, under the instructions of Prof. Hanxiong Li. You can reach me through ALIAS at Tencent dot com (ALIAS = brandenwang)
 
 ## News
+- (forthcoming) Co-organize a tutorial on Retrieval-Augmented Text Generation at CCL 2022
+- 2022/06: Two papers accepted by Interspeech 2022. 
 - (forthcoming) Co-organize a tutorial on Retrieval-Augmented Text Generation at SIGIR 2022
 - (forthcoming) Co-organize a tutorial on Retrieval-Augmented Text Generation at IJCAI 2022
 - 2022/04: Our AI writing assitant, Effidit (文涌) , was lanuched. [Link](https://effidit.qq.com/)
@@ -23,6 +25,11 @@ We also recruit full-time emploiees, please refer to [Recruitment link](https://
 ## Selected Publications (*=corresponding author)  
 
 #### Retrieval-Guided Dialogue Generation
+- Shuming Shi, Enbo Zhao, Duyu Tang, Yan Wang, Piji Li, Wei Bi, Haiyun Jiang, Guoping Huang, Leyang Cui, Xinting Huang, Cong Zhou, Yong Dai, Dongyang Ma. Effidit: Your AI Writing Assistant. Arxiv [[paper](https://arxiv.org/pdf/2206.07956.pdf)]
+
+- Yixuan Su, Tian Lan, Yan Wang, Dani Yogatama, Lingpeng Kong, Nigel Collier. A Contrastive Framework for Neural Text Generation. Arxiv [[paper](https://arxiv.org/abs/2202.06417)]
+
+- Ziqian Dai, Jianwei Yu, Yan Wang*, Nuo Chen, Yanyao Bian, Guangzhi Li, Deng Cai, Dong Yu. Automatic Prosody Annotation with Pre-Trained Text-Speech Model. Interspeech 2022 [[paper](https://arxiv.org/pdf/2206.07956.pdf)]
 
 - Deng Cai, Yan Wang*, Huayang Li, Wai Lam, Lemao Liu. Neural machine translation with monolingual translation memory. Proceedings of ACL 2021. [[paper](https://arxiv.org/pdf/2105.11269.pdf)]
 
