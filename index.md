@@ -76,12 +76,14 @@ We also recruit full-time emploiees, please refer to [Recruitment link](https://
 ## Interns 
 
 #### Current Interns
-- Tian Lan (PhD student at Beijing Institute of Technology)
-- Dongyang Ma (graduate student at Harbin Institute of Technology)
-- Nuo chen (PhD student at HKUST)
-- Junxin Li (Tsinghua student at Beijing University)
+- Junxin Li (graduate student at Tsinghua University)
+- jiaan Wang (graduate student at Soochow University)
+- Zhiling Zhang (graduate student at SUTD)
 
 #### Past Interns
+- Tian Lan (PhD student at Beijing Institute of Technology, 05/2021 - 09/2022)
+- Dongyang Ma (Tencent AI Lab, 05/2021 - 04/2022)
+- Nuo chen (PhD student at HKUST, 11/2021 - 09/2022)
 - [Deng Cai](https://jcyk.github.io/) (PhD student at CUHK, ACL 2021 Outstanding Paper Award, 02/2018 - 03/2021)
 - Zibo Lin (Tencent, 08/2019 - 03/2021)
 - Zelong Yang (China Aerospace Science and Technology Corporation, 08/2019 - 03/2021)
@@ -92,7 +94,7 @@ We also recruit full-time emploiees, please refer to [Recruitment link](https://
 - [Jiaxin Pei](https://jiaxin-pei.github.io/) (PhD student at University of Michigan, 03/2019 -  08/2019)
 - [Zhufeng Pan](https://www.linkedin.com/in/panzhufeng/) (Google Brain, 10/2018 - 09/2019)
 - Ziqian Dai (graduate student at Beijing University)
-- Ziyang Chen (Tencent, 03/2018 - 09/2018)
+- Ziyang Chen (Tencent AI Lab, 03/2018 - 09/2018)
 - Lei Wang (PhD student at Singapore Management University, 11/2017 - 03/2018)
 
 ## Collaborators
