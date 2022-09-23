@@ -3,6 +3,7 @@
 My name is 王琰 (Yan Wang). I am currently a senior researcher at Tencent AI Lab, working on Dialogue and Text Generation. Before join Tencent, I recieved my Ph.D. degree at City University of Hong Kong (CityU) in July 2017, under the instructions of Prof. Hanxiong Li. You can reach me through ALIAS at Tencent dot com (ALIAS = brandenwang)
 
 ## News
+- 2022/09: One papers accepted by Neurips 2022. 
 - (forthcoming) Co-organize a tutorial on Retrieval-Augmented Text Generation at CCL 2022
 - 2022/06: Two papers accepted by Interspeech 2022. 
 - (forthcoming) Co-organize a tutorial on Retrieval-Augmented Text Generation at SIGIR 2022
@@ -57,7 +58,7 @@ We also recruit full-time emploiees, please refer to [Recruitment link](https://
 - Haoyu Song, Yan Wang, Wei-Nan Zhang, Xiaojiang Liu, Ting Liu. Generate, Delete and Rewrite: A Three-Stage Framework for Improving Persona Consistency of Dialogue Generation. Proceedings of ACL 2020. [[paper](https://aclanthology.org/2020.acl-main.516.pdf)]
 
 #### Text Generation
-- Yixuan Su, Tian Lan, Yan Wang, Dani Yogatama, Lingpeng Kong, Nigel Collier. A Contrastive Framework for Neural Text Generation. Arxiv. [[paper](https://arxiv.org/abs/2202.06417)]
+- Yixuan Su, Tian Lan, Yan Wang, Dani Yogatama, Lingpeng Kong, Nigel Collier. A Contrastive Framework for Neural Text Generation. Neurips 2022. [[paper](https://arxiv.org/abs/2202.06417)]
 
 - Yixuan Su, Deng Cai, Yan Wang, David Vandyke, Simon Baker, Piji Li, Nigel Collier. Non-autoregressive Text Generation With Pre-trained Language Models. Proceedings of EACL 2021. [[paper](https://arxiv.org/pdf/2102.08220.pdf)]
 
@@ -71,6 +72,10 @@ We also recruit full-time emploiees, please refer to [Recruitment link](https://
 
 - Zelong Yang, Yan Wang*, Piji Li, Shaobin Lin, Shuming Shi, Shao-Lun Huang. Predicting Events in MOBA Games: Dataset, Attribution, and Evaluation. IEEE Transaction on Games.
 
+#### Speech and NLP
+
+- Ziqian Dai, Jianwei Yu, Yan Wang*, Nuo Chen, Yanyao Bian, Guangzhi Li, Deng Cai, Dong Yu. Automatic Prosody Annotation with Pre-Trained Text-Speech Model. IEEE Interspeech 2022.
+
 <!-- <p><a href="publications.md"> :arrow_right:  full list</a></p> -->
 
 ## Interns 
@@ -78,12 +83,13 @@ We also recruit full-time emploiees, please refer to [Recruitment link](https://
 #### Current Interns
 - Junxin Li (graduate student at Tsinghua University)
 - jiaan Wang (graduate student at Soochow University)
-- Zhiling Zhang (graduate student at SUTD)
+- Zhiling Zhang (graduate student at SJTU)
 
 #### Past Interns
 - Tian Lan (PhD student at Beijing Institute of Technology, 05/2021 - 09/2022)
 - Dongyang Ma (Tencent AI Lab, 05/2021 - 04/2022)
 - Nuo chen (PhD student at HKUST, 11/2021 - 09/2022)
+- Ziqian Dai (graduate student at Beijing University, 10/2021 - 05/2022)
 - [Deng Cai](https://jcyk.github.io/) (PhD student at CUHK, ACL 2021 Outstanding Paper Award, 02/2018 - 03/2021)
 - Zibo Lin (Tencent, 08/2019 - 03/2021)
 - Zelong Yang (China Aerospace Science and Technology Corporation, 08/2019 - 03/2021)
@@ -93,7 +99,6 @@ We also recruit full-time emploiees, please refer to [Recruitment link](https://
 - [Yixuan Su](https://yxuansu.github.io/) (PhD student at University of Cambridge, 10/2018 - 08/2019, 05/2020 - 07/2021)
 - [Jiaxin Pei](https://jiaxin-pei.github.io/) (PhD student at University of Michigan, 03/2019 -  08/2019)
 - [Zhufeng Pan](https://www.linkedin.com/in/panzhufeng/) (Google Brain, 10/2018 - 09/2019)
-- Ziqian Dai (graduate student at Beijing University)
 - Ziyang Chen (Tencent AI Lab, 03/2018 - 09/2018)
 - Lei Wang (PhD student at Singapore Management University, 11/2017 - 03/2018)
 
