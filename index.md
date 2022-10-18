@@ -28,8 +28,6 @@ We also recruit full-time emploiees, please refer to [Recruitment link](https://
 #### Retrieval-Guided Dialogue Generation
 - Shuming Shi, Enbo Zhao, Duyu Tang, Yan Wang, Piji Li, Wei Bi, Haiyun Jiang, Guoping Huang, Leyang Cui, Xinting Huang, Cong Zhou, Yong Dai, Dongyang Ma. Effidit: Your AI Writing Assistant. Arxiv [[paper](https://arxiv.org/pdf/2206.07956.pdf)]
 
-- Yixuan Su, Tian Lan, Yan Wang, Dani Yogatama, Lingpeng Kong, Nigel Collier. A Contrastive Framework for Neural Text Generation. Arxiv [[paper](https://arxiv.org/abs/2202.06417)]
-
 - Ziqian Dai, Jianwei Yu, Yan Wang*, Nuo Chen, Yanyao Bian, Guangzhi Li, Deng Cai, Dong Yu. Automatic Prosody Annotation with Pre-Trained Text-Speech Model. Interspeech 2022 [[paper](https://arxiv.org/pdf/2206.07956.pdf)]
 
 - Deng Cai, Yan Wang*, Huayang Li, Wai Lam, Lemao Liu. Neural machine translation with monolingual translation memory. Proceedings of ACL 2021. [[paper](https://arxiv.org/pdf/2105.11269.pdf)]
