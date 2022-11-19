@@ -1,6 +1,6 @@
 # Welcome to Yan Wang's Homepage
 
-My name is 王琰 (Yan Wang). I am currently a senior researcher at Tencent AI Lab, working on Dialogue and Text Generation. Before join Tencent, I recieved my Ph.D. degree at City University of Hong Kong (CityU) in July 2017, under the instructions of Prof. Hanxiong Li. You can reach me through ALIAS at Tencent dot com (ALIAS = brandenwang)
+My name is 王琰 (Yan Wang). I am currently the NLP topic owner of miHoYo. Proir to that, I was a senior researcher at Tencent AI Lab, working on Dialogue and Text Generation. I recieved my Ph.D. degree at City University of Hong Kong (CityU) in July 2017, under the instructions of Prof. Hanxiong Li. You can reach me through yanwang(dot)branden(at)gmail(dot)com
 
 ## News
 - 2022/09: One papers accepted by Neurips 2022. 
@@ -16,9 +16,8 @@ My name is 王琰 (Yan Wang). I am currently a senior researcher at Tencent AI L
 
 
 ## Opening Positions
-I have some intern positions available at NLP center, Tencent AI Lab. If you have any interests or enquires, please feel free to sent me an email. 
+I have some intern positions available at miHoYo. If you have any interests or enquires, please feel free to sent me an email. please refer to [Recruitment link](https://campus.mihoyo.com/#/campus/position/193) for more details.
 
-We also recruit full-time emploiees, please refer to [Recruitment link](https://ai.tencent.com/ailab/nlp/en/hiring/employee.html) for more details. Contact me for internal recommendation. 
 
 
 
