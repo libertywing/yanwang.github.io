@@ -1,8 +1,9 @@
 # Welcome to Yan Wang's Homepage
 
-My name is 王琰 (Yan Wang). I am currently the NLP topic owner of miHoYo. Proir to that, I was a senior researcher at Tencent AI Lab, working on Dialogue and Text Generation. I recieved my Ph.D. degree at City University of Hong Kong (CityU) in July 2017, under the instructions of Prof. Hanxiong Li. You can reach me through yanwang(dot)branden(at)gmail(dot)com
+My name is 王琰 (Yan Wang). I am currently the NLP topic owner of miHoYo. Proir to that, I was a senior researcher at Tencent AI Lab, working on Dialogue and Text Generation. I recieved my Ph.D. degree at City University of Hong Kong (CityU) in July 2017, under the instructions of Prof. Hanxiong Li. You can reach me through yanwang.branden(at)gmail.com
 
 ## News
+- 2023/01: One **milestone paper**, "Copy is All You Need", accepted by ICLR 2023. 
 - 2022/09: One papers accepted by Neurips 2022. 
 - (forthcoming) Co-organize a tutorial on Retrieval-Augmented Text Generation at CCL 2022
 - 2022/06: Two papers accepted by Interspeech 2022. 
@@ -14,9 +15,9 @@ My name is 王琰 (Yan Wang). I am currently the NLP topic owner of miHoYo. Proi
 - 2021/05: Four long papers accepted by ACL 2021 (3 Main and 1 Findings). 
 - 2020/09: Two long papers accepted by EMNLP 2020. (Main)
 
-
+<!-- 
 ## Opening Positions
-I have some intern positions available at miHoYo. If you have any interests or enquires, please feel free to sent me an email. please refer to [Recruitment link](https://campus.mihoyo.com/#/campus/position/193) for more details.
+I have some intern positions available at miHoYo. If you have any interests or enquires, please feel free to sent me an email. please refer to [Recruitment link](https://campus.mihoyo.com/#/campus/position/193) for more details. -->
 
 
 
