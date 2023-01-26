@@ -79,25 +79,26 @@ I have some intern positions available at miHoYo. If you have any interests or e
 ## Interns 
 
 #### Current Interns
-- Junxin Li (graduate student at Tsinghua University)
-- jiaan Wang (graduate student at Soochow University)
-- Zhiling Zhang (graduate student at SJTU)
+- [jiaan Wang](http://wangjiaan.cn/) (graduate student at Soochow University)
+- [Zhiling Zhang](https://github.com/blmoistawinde) (graduate student at SJTU)
+- Tian Lan (PhD student at Beijing Institute of Technology, 05/2021 - Now)
+- Xiaotian Qi (graduate student at Communication University of China)
 
 #### Past Interns
-- Tian Lan (PhD student at Beijing Institute of Technology, 05/2021 - 09/2022)
-- Dongyang Ma (Tencent AI Lab, 05/2021 - 04/2022)
+- Junxin Li (graduate student at Tsinghua University, 10/2021-12/2022)
+- Dongyang Ma (**Tencent AI Lab** and **miHoYo**, 05/2021 - 04/2022)
 - Nuo chen (PhD student at HKUST, 11/2021 - 09/2022)
 - Ziqian Dai (graduate student at Beijing University, 10/2021 - 05/2022)
-- [Deng Cai](https://jcyk.github.io/) (PhD student at CUHK, ACL 2021 Outstanding Paper Award, 02/2018 - 03/2021)
-- Zibo Lin (Tencent, 08/2019 - 03/2021)
+- [Deng Cai](https://jcyk.github.io/) (**Tencent AI Lab**, CUHK, ACL 2021 Outstanding Paper Award, 02/2018 - 03/2021)
+- Zibo Lin (Tencent Wechat, 08/2019 - 03/2021)
 - Zelong Yang (China Aerospace Science and Technology Corporation, 08/2019 - 03/2021)
-- [Haoyu Song](https://songhaoyu.github.io/) (PhD student at Harbin Institute of Technology, 11/2019 - 03/2021)
+- [Haoyu Song](https://songhaoyu.github.io/) (Huawei Topmind(天才少年), Harbin Institute of Technology, 11/2019 - 03/2021)
 - [Xiangru Tang](https://xiangrutang.github.io/) (PhD student at Yale University, 06/2020 - 09/2020)
 - Changying Hao (Baidu, 04/2020 - 09/2020)
 - [Yixuan Su](https://yxuansu.github.io/) (PhD student at University of Cambridge, 10/2018 - 08/2019, 05/2020 - 07/2021)
 - [Jiaxin Pei](https://jiaxin-pei.github.io/) (PhD student at University of Michigan, 03/2019 -  08/2019)
 - [Zhufeng Pan](https://www.linkedin.com/in/panzhufeng/) (Google Brain, 10/2018 - 09/2019)
-- Ziyang Chen (Tencent AI Lab, 03/2018 - 09/2018)
+- Ziyang Chen (**Tencent AI Lab**, 03/2018 - 09/2018)
 - Lei Wang (PhD student at Singapore Management University, 11/2017 - 03/2018)
 
 ## Collaborators
