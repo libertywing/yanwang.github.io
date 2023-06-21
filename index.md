@@ -3,6 +3,7 @@
 My name is 王琰 (Yan Wang). I am currently the NLP topic owner of miHoYo. Proir to that, I was a senior researcher at Tencent AI Lab, working on Dialogue and Text Generation. I recieved my Ph.D. degree at City University of Hong Kong (CityU) in July 2017, under the instructions of Prof. Hanxiong Li. You can reach me through yanwang.branden(at)gmail.com
 
 ## News
+- 2023/05: Demo paper, "Effidit: An Assistant for Improving Writing Efficiency", accepted by ACL 2023. 
 - 2023/01: One **milestone paper**, "Copy is All You Need", accepted by ICLR 2023. 
 - 2022/09: One papers accepted by Neurips 2022. 
 - (forthcoming) Co-organize a tutorial on Retrieval-Augmented Text Generation at CCL 2022
@@ -17,16 +18,14 @@ My name is 王琰 (Yan Wang). I am currently the NLP topic owner of miHoYo. Proi
 
 <!-- 
 ## Opening Positions
-I have some intern positions available at miHoYo. If you have any interests or enquires, please feel free to sent me an email. please refer to [Recruitment link](https://campus.mihoyo.com/#/campus/position/193) for more details. -->
-
-
-
-
+We are hiring (Full-time employees and Interns)! If you  1) have a strong background in the area of NLP research or engineering, 2) have a passion to save the world as a tech otaku, and 3) are not an overachiever  (卷王). Please contact me! Please feel free to send me an email if you have any enquires. 
 
 ## Selected Publications (*=corresponding author)  
 
 #### Retrieval-Guided Dialogue Generation
-- Shuming Shi, Enbo Zhao, Duyu Tang, Yan Wang, Piji Li, Wei Bi, Haiyun Jiang, Guoping Huang, Leyang Cui, Xinting Huang, Cong Zhou, Yong Dai, Dongyang Ma. Effidit: Your AI Writing Assistant. Arxiv [[paper](https://arxiv.org/pdf/2206.07956.pdf)]
+- Tian Lan, Deng Cai, Yan Wang, Heyan Huang, Xian-Ling Mao. Copy is All You Need. ICLR 2023 [[paper](https://openreview.net/pdf?id=CROlOA9Nd8C)]
+
+- Shuming Shi, Enbo Zhao, Duyu Tang, Yan Wang, Piji Li, Wei Bi, Haiyun Jiang, Guoping Huang, Leyang Cui, Xinting Huang, Cong Zhou, Yong Dai, Dongyang Ma. Effidit: Your AI Writing Assistant. ACL 2023 [[paper](https://arxiv.org/pdf/2206.07956.pdf)]
 
 - Ziqian Dai, Jianwei Yu, Yan Wang*, Nuo Chen, Yanyao Bian, Guangzhi Li, Deng Cai, Dong Yu. Automatic Prosody Annotation with Pre-Trained Text-Speech Model. Interspeech 2022 [[paper](https://arxiv.org/pdf/2206.07956.pdf)]
 
@@ -79,12 +78,13 @@ I have some intern positions available at miHoYo. If you have any interests or e
 ## Interns 
 
 #### Current Interns
+- [Chengyue Jiang](https://jeffchy.github.io/) (PhD student at ShanghaiTech University)
 - [jiaan Wang](http://wangjiaan.cn/) (graduate student at Soochow University)
 - [Zhiling Zhang](https://github.com/blmoistawinde) (graduate student at SJTU)
-- Tian Lan (PhD student at Beijing Institute of Technology, 05/2021 - Now)
 - Xiaotian Qi (graduate student at Communication University of China)
 
 #### Past Interns
+- Tian Lan (PhD student at Beijing Institute of Technology, 05/2021 - 06/2023)
 - Junxin Li (graduate student at Tsinghua University, 10/2021-12/2022)
 - Dongyang Ma (**Tencent AI Lab** and **miHoYo**, 05/2021 - 04/2022)
 - Nuo chen (PhD student at HKUST, 11/2021 - 09/2022)
