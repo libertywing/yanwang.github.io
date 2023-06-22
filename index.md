@@ -10,15 +10,14 @@ My name is 王琰 (Yan Wang). I am currently the NLP topic owner of miHoYo. Proi
 - 2022/06: Two papers accepted by Interspeech 2022. 
 - (forthcoming) Co-organize a tutorial on Retrieval-Augmented Text Generation at SIGIR 2022
 - (forthcoming) Co-organize a tutorial on Retrieval-Augmented Text Generation at IJCAI 2022
-- 2022/04: Our AI writing assitant, Effidit (文涌) , was lanuched. [Link](https://effidit.qq.com/)
+- 2022/04: Our AI writing assitant, Effidit (文涌), was lanuched. [Link](https://effidit.qq.com/)
 - 2021/07: Paper "Neural Machine Translation with Monolingual Translation Memory" was selected as the **outstanding paper** of ACL 2021. 
 - 2021/06: Two papers accepted by IEEE Transaction on Games, One paper accepted by TASLP. 
 - 2021/05: Four long papers accepted by ACL 2021 (3 Main and 1 Findings). 
 - 2020/09: Two long papers accepted by EMNLP 2020. (Main)
 
-<!-- 
 ## Opening Positions
-We are hiring (Full-time employees and Interns)! If you  1) have a strong background in the area of NLP research or engineering, 2) have a passion to save the world as a tech otaku, and 3) are not an overachiever  (卷王). Please contact me! Please feel free to send me an email if you have any enquires. 
+We are hiring (Full-time employees and Interns)! If you  1) have a strong background in the area of NLP research or engineering, 2) have a passion to save the world as a tech otaku, and 3) are not an overachiever (卷王). Please contact me! Please feel free to send me an email if you have any enquires. 
 
 ## Selected Publications (*=corresponding author)  
 
