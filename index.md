@@ -22,7 +22,7 @@ We are hiring (Full-time employees and Interns)! If you  1) have a strong backgr
 ## Selected Publications (*=corresponding author)  
 
 #### Retrieval-Guided Dialogue Generation
-- Tian Lan, Deng Cai, Yan Wang, Heyan Huang, Xian-Ling Mao. Copy is All You Need. ICLR 2023 [[paper](https://openreview.net/pdf?id=CROlOA9Nd8C)]
+- Tian Lan, Deng Cai, Yan Wang*, Heyan Huang, Xian-Ling Mao. Copy is All You Need. ICLR 2023 [[paper](https://openreview.net/pdf?id=CROlOA9Nd8C)]
 
 - Shuming Shi, Enbo Zhao, Duyu Tang, Yan Wang, Piji Li, Wei Bi, Haiyun Jiang, Guoping Huang, Leyang Cui, Xinting Huang, Cong Zhou, Yong Dai, Dongyang Ma. Effidit: Your AI Writing Assistant. ACL 2023 [[paper](https://arxiv.org/pdf/2206.07956.pdf)]
 
