@@ -22,13 +22,13 @@ We are hiring (Full-time employees and Interns)! If you  1) have a strong backgr
 ## Selected Publications (*=corresponding author)  
 
 #### Retrieval-Guided Dialogue Generation
-- Tian Lan, Deng Cai, Yan Wang*, Heyan Huang, Xian-Ling Mao. Copy is All You Need. ICLR 2023 [[paper](https://openreview.net/pdf?id=CROlOA9Nd8C)]
-
-- Shuming Shi, Enbo Zhao, Duyu Tang, Yan Wang, Piji Li, Wei Bi, Haiyun Jiang, Guoping Huang, Leyang Cui, Xinting Huang, Cong Zhou, Yong Dai, Dongyang Ma. Effidit: Your AI Writing Assistant. ACL 2023 [[paper](https://arxiv.org/pdf/2206.07956.pdf)]
+- Tian Lan, Deng Cai, Yan Wang*, Heyan Huang, Xian-Ling Mao. Copy is All You Need. ICLR 2023 [[paper](https://openreview.net/pdf?id=CROlOA9Nd8C)][[Social Media][https://zhuanlan.zhihu.com/p/647457020]]
+- 
+- Shuming Shi, Enbo Zhao, Duyu Tang, Yan Wang, Piji Li, Wei Bi, Haiyun Jiang, Guoping Huang, Leyang Cui, Xinting Huang, Cong Zhou, Yong Dai, Dongyang Ma. Effidit: Your AI Writing Assistant. ACL 2023 [[paper](https://arxiv.org/pdf/2206.07956.pdf)][[Product][https://effidit.qq.com/]]
 
 - Ziqian Dai, Jianwei Yu, Yan Wang*, Nuo Chen, Yanyao Bian, Guangzhi Li, Deng Cai, Dong Yu. Automatic Prosody Annotation with Pre-Trained Text-Speech Model. Interspeech 2022 [[paper](https://arxiv.org/pdf/2206.07956.pdf)]
 
-- Deng Cai, Yan Wang*, Huayang Li, Wai Lam, Lemao Liu. Neural machine translation with monolingual translation memory. Proceedings of ACL 2021. [[paper](https://arxiv.org/pdf/2105.11269.pdf)]
+- Deng Cai, Yan Wang*, Huayang Li, Wai Lam, Lemao Liu. Neural machine translation with monolingual translation memory. Proceedings of ACL 2021. [[paper](https://arxiv.org/pdf/2105.11269.pdf)][[Social Media][https://www.jiqizhixin.com/articles/2021-08-05-4]]
 
 - Yixuan Su, Yan Wang, Simon Baker, Deng Cai, Xiaojiang Liu, Anna Korhonen, Nigel Collier. Prototype-to-Style: Dialogue Generation with Style-Aware Editing on Retrieval Memory. IEEE/ACM Transactions on Audio, Speech, and Language Processing ( Volume: 29). [[paper](https://arxiv.org/pdf/2004.02214.pdf)]
 
@@ -77,6 +77,7 @@ We are hiring (Full-time employees and Interns)! If you  1) have a strong backgr
 ## Interns 
 
 #### Current Interns
+- Wenyang Hui (graduate student at ShanghaiTech University)
 - [Chengyue Jiang](https://jeffchy.github.io/) (PhD student at ShanghaiTech University)
 - [jiaan Wang](http://wangjiaan.cn/) (graduate student at Soochow University)
 - [Zhiling Zhang](https://github.com/blmoistawinde) (graduate student at SJTU)
@@ -84,7 +85,7 @@ We are hiring (Full-time employees and Interns)! If you  1) have a strong backgr
 
 #### Past Interns
 - Tian Lan (PhD student at Beijing Institute of Technology, 05/2021 - 06/2023)
-- Junxin Li (graduate student at Tsinghua University, 10/2021-12/2022)
+- Junxin Li (Huawei, 10/2021-12/2022)
 - Dongyang Ma (**Tencent AI Lab** and **miHoYo**, 05/2021 - 04/2022)
 - Nuo chen (PhD student at HKUST, 11/2021 - 09/2022)
 - Ziqian Dai (graduate student at Beijing University, 10/2021 - 05/2022)
