@@ -3,6 +3,7 @@
 My name is 王琰 (Yan Wang). I am currently the NLP topic owner of miHoYo. Proir to that, I was a senior researcher at Tencent AI Lab, working on Dialogue and Text Generation. I recieved my Ph.D. degree at City University of Hong Kong (CityU) in July 2017, under the instructions of Prof. Hanxiong Li. You can reach me through yanwang.branden(at)gmail.com
 
 ## News
+- 2023/11: Paper "Large Language Models Meet Harry Potter: A Bilingual Dataset for Aligning LLMs with Characters", accepted by EMNLP findings, see you guys in Singapore!
 - 2023/05: Demo paper, "Effidit: An Assistant for Improving Writing Efficiency", accepted by ACL 2023. 
 - 2023/01: One **milestone paper**, "Copy is All You Need", accepted by ICLR 2023. 
 - 2022/09: One papers accepted by Neurips 2022. 
@@ -77,17 +78,19 @@ We are hiring (Full-time employees and Interns)! If you  1) have a strong backgr
 ## Interns 
 
 #### Current Interns
+- [Hongqiu Wu]([https://jeffchy.github.io/](https://bcmi.sjtu.edu.cn/home/wuhongqiu/)) (PhD student at Shanghai Jiao Tong University)
 - Wenyang Hui (graduate student at ShanghaiTech University)
 - [Chengyue Jiang](https://jeffchy.github.io/) (PhD student at ShanghaiTech University)
-- [jiaan Wang](http://wangjiaan.cn/) (graduate student at Soochow University)
-- [Zhiling Zhang](https://github.com/blmoistawinde) (graduate student at SJTU)
 - Xiaotian Qi (graduate student at Communication University of China)
 
 #### Past Interns
+- [jiaan Wang](http://wangjiaan.cn/) (**miHoYo**, Soochow University, 08/2022 - 04/2023)
+- [Zhiling Zhang](https://github.com/blmoistawinde) (**miHoYo**, Shanghai Jiao Tong University, 08/2022 - 04/2023)
+- [Xinting Huang](https://timhuang1.github.io/) (**Tencent AI Lab**, University of Melbourne, 04/2022 - 08/2022)
 - Tian Lan (PhD student at Beijing Institute of Technology, 05/2021 - 06/2023)
 - Junxin Li (Huawei, 10/2021-12/2022)
 - Dongyang Ma (**Tencent AI Lab** and **miHoYo**, 05/2021 - 04/2022)
-- Nuo chen (PhD student at HKUST, 11/2021 - 09/2022)
+- [Nuo chen](https://nuochenpku.github.io/) (PhD student at HKUST, 11/2021 - 09/2022)
 - Ziqian Dai (graduate student at Beijing University, 10/2021 - 05/2022)
 - [Deng Cai](https://jcyk.github.io/) (**Tencent AI Lab**, CUHK, ACL 2021 Outstanding Paper Award, 02/2018 - 03/2021)
 - Zibo Lin (Tencent Wechat, 08/2019 - 03/2021)
@@ -95,11 +98,11 @@ We are hiring (Full-time employees and Interns)! If you  1) have a strong backgr
 - [Haoyu Song](https://songhaoyu.github.io/) (Huawei Topmind(天才少年), Harbin Institute of Technology, 11/2019 - 03/2021)
 - [Xiangru Tang](https://xiangrutang.github.io/) (PhD student at Yale University, 06/2020 - 09/2020)
 - Changying Hao (Baidu, 04/2020 - 09/2020)
-- [Yixuan Su](https://yxuansu.github.io/) (PhD student at University of Cambridge, 10/2018 - 08/2019, 05/2020 - 07/2021)
+- [Yixuan Su](https://yxuansu.github.io/) (Cohere, University of Cambridge, 10/2018 - 08/2019, 05/2020 - 07/2021)
 - [Jiaxin Pei](https://jiaxin-pei.github.io/) (PhD student at University of Michigan, 03/2019 -  08/2019)
 - [Zhufeng Pan](https://www.linkedin.com/in/panzhufeng/) (Google Brain, 10/2018 - 09/2019)
 - Ziyang Chen (**Tencent AI Lab**, 03/2018 - 09/2018)
-- Lei Wang (PhD student at Singapore Management University, 11/2017 - 03/2018)
+- [Lei Wang](https://demoleiwang.github.io/HomePage/) (PhD student at Singapore Management University, 11/2017 - 03/2018)
 
 ## Collaborators
 - [Lingpeng Kong](https://ikekonglp.github.io/) (assistant professor at the University of Hong Kong, Tencent rhinobird cooperation project)
