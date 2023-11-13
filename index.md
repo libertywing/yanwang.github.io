@@ -78,7 +78,7 @@ We are hiring (Full-time employees and Interns)! If you  1) have a strong backgr
 ## Interns 
 
 #### Current Interns
-- [Hongqiu Wu]([https://jeffchy.github.io/](https://bcmi.sjtu.edu.cn/home/wuhongqiu/)) (PhD student at Shanghai Jiao Tong University)
+- [Hongqiu Wu](https://bcmi.sjtu.edu.cn/home/wuhongqiu/) (PhD student at Shanghai Jiao Tong University)
 - Wenyang Hui (graduate student at ShanghaiTech University)
 - [Chengyue Jiang](https://jeffchy.github.io/) (PhD student at ShanghaiTech University)
 - Xiaotian Qi (graduate student at Communication University of China)
