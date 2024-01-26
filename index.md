@@ -21,6 +21,7 @@ My name is 王琰 (Yan Wang). I am currently the NLP topic owner of miHoYo. Proi
 We are hiring (Full-time employees and Interns)! If you  1) have a strong background in the area of NLP research or engineering, 2) have a passion to save the world as a tech otaku, and 3) are not an overachiever (卷王). Please contact me! Please feel free to send me an email if you have any enquires. 
 
 ## Selected Publications (*=corresponding author)  
+- Y. Wang, D. Ma, D. Cai. With Greater Text Comes Greater Necessity: Inference-Time Training Helps Long Text Generation. [[paper](https://arxiv.org/abs/2401.11504)]
 
 #### Retrieval-Guided Dialogue Generation
 - Tian Lan, Deng Cai, Yan Wang*, Heyan Huang, Xian-Ling Mao. Copy is All You Need. ICLR 2023 [[paper](https://openreview.net/pdf?id=CROlOA9Nd8C)][[Social Media][https://zhuanlan.zhihu.com/p/647457020]]
