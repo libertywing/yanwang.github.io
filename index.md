@@ -75,7 +75,6 @@ My name is 王琰 (Yan Wang). I am currently the NLP topic owner of miHoYo. Proi
 
 - Ziqian Dai, Jianwei Yu, Yan Wang*, Nuo Chen, Yanyao Bian, Guangzhi Li, Deng Cai, Dong Yu. Automatic Prosody Annotation with Pre-Trained Text-Speech Model. IEEE Interspeech 2022.
 
-<!-- <p><a href="publications.md"> :arrow_right:  full list</a></p> -->
 
 ## Interns 
 
