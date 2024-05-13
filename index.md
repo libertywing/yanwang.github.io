@@ -21,7 +21,7 @@ My name is 王琰 (Yan Wang). I am currently the NLP topic owner of miHoYo. Proi
 
 [comment]: <> ## Opening Positions
 [comment]: <> We are hiring (Full-time employees and Interns)! If you  1) have a strong background in the area of NLP research or engineering, 2) have a passion to save the world as a tech otaku, and 3) are not an overachiever (卷王). Please contact me! Please feel free to send me an email if you have any enquires. 
--->
+
 ## Selected Publications (*=corresponding author)  
 - Y. Wang, D. Ma, D. Cai. With Greater Text Comes Greater Necessity: Inference-Time Training Helps Long Text Generation. [[paper](https://arxiv.org/abs/2401.11504)]
 
@@ -118,4 +118,4 @@ As the captain of the Tencent Technology and Engineering Group basketball team, 
 I also served as the Chair of the Fitness Association of Tencent Technology and Engineering Group. 
 
 About ten years ago, I dreamed to be a professional E-sports player (RTS game). Now I am still a top-1000 player in the world in Warcraft III Ladder.
-
+-->
