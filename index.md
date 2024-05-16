@@ -1,5 +1,5 @@
 # Welcome to Yan Wang's Homepage
-<!--
+
 My name is 王琰 (Yan Wang). I am currently the NLP topic owner of miHoYo. Proir to that, I was a senior researcher at Tencent AI Lab, working on Dialogue and Text Generation. I recieved my Ph.D. degree at City University of Hong Kong (CityU) in July 2017, under the instructions of Prof. Hanxiong Li. You can reach me through yanwang.branden(at)gmail.com
 
 ## News
@@ -117,4 +117,4 @@ As the captain of the Tencent Technology and Engineering Group basketball team, 
 I also served as the Chair of the Fitness Association of Tencent Technology and Engineering Group. 
 
 About ten years ago, I dreamed to be a professional E-sports player (RTS game). Now I am still a top-1000 player in the world in Warcraft III Ladder.
--->
+
