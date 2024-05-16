@@ -3,16 +3,16 @@
 My name is 王琰 (Yan Wang). I am currently the NLP topic owner of miHoYo. Proir to that, I was a senior researcher at Tencent AI Lab, working on Dialogue and Text Generation. I recieved my Ph.D. degree at City University of Hong Kong (CityU) in July 2017, under the instructions of Prof. Hanxiong Li. You can reach me through yanwang.branden(at)gmail.com
 
 ## News
-- 2024/04: An paper about Game Engine: "Instruction-Driven Game Engines on Large Language Models", released on Arxiv. 
+- 2024/04: May be this is the new era of Game Engine: Our paper "Instruction-Driven Game Engines on Large Language Models", released on Arxiv. 
 - 2024/01: An interesting paper about long-text generation: "With Greater Text Comes Greater Necessity: Inference-Time Training Helps Long Text Generation", released on Arxiv. 
 - 2023/11: Paper "Large Language Models Meet Harry Potter: A Bilingual Dataset for Aligning LLMs with Characters", accepted by EMNLP findings, see you guys in Singapore!
 - 2023/05: Demo paper, "Effidit: An Assistant for Improving Writing Efficiency", accepted by ACL 2023. 
 - 2023/01: One milestone pape, "Copy is All You Need", accepted by ICLR 2023. 
 - 2022/09: One papers accepted by Neurips 2022. 
-- (forthcoming) Co-organize a tutorial on Retrieval-Augmented Text Generation at CCL 2022
+- Organize a tutorial on Retrieval-Augmented Text Generation at CCL 2022
 - 2022/06: Two papers accepted by Interspeech 2022. 
-- (forthcoming) Co-organize a tutorial on Retrieval-Augmented Text Generation at SIGIR 2022
-- (forthcoming) Co-organize a tutorial on Retrieval-Augmented Text Generation at IJCAI 2022
+- Organized a tutorial on Retrieval-Augmented Text Generation at SIGIR 2022
+- Organize a tutorial on Retrieval-Augmented Text Generation at IJCAI 2022
 - 2022/04: Our AI writing assitant, Effidit (文涌), was lanuched. [Link](https://effidit.qq.com/)
 - 2021/07: Paper "Neural Machine Translation with Monolingual Translation Memory" was selected as the **outstanding paper** of ACL 2021. 
 - 2021/06: Two papers accepted by IEEE Transaction on Games, One paper accepted by TASLP. 
