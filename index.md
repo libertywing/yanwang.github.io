@@ -27,7 +27,7 @@ My name is 王琰 (Yan Wang). I am currently the NLP topic owner of miHoYo. Proi
 - Hongqiu Wui, Yan Wang*, Xingyuan Liu, Hai Zhao, Min Zhang. Instruction-Driven Game Engines on Large Language Models. Arxiv. 2024. [[paper](https://arxiv.org/abs/2404.00276)]
 
 #### Retrieval-Guided Dialogue Generation
-- Tian Lan, Deng Cai, Yan Wang*, Heyan Huang, Xian-Ling Mao. Copy is All You Need. ICLR 2023 [[paper](https://openreview.net/pdf?id=CROlOA9Nd8C)][[Social Media][https://zhuanlan.zhihu.com/p/647457020]]
+- Tian Lan, Deng Cai, Yan Wang*, Heyan Huang, Xian-Ling Mao. Copy is All You Need. ICLR 2023 [[paper](https://openreview.net/pdf?id=CROlOA9Nd8C)][[Social Media][(https://zhuanlan.zhihu.com/p/647457020)]]
 - Shuming Shi, Enbo Zhao, Duyu Tang, Yan Wang, Piji Li, Wei Bi, Haiyun Jiang, Guoping Huang, Leyang Cui, Xinting Huang, Cong Zhou, Yong Dai, Dongyang Ma. Effidit: Your AI Writing Assistant. ACL 2023 [[paper](https://arxiv.org/pdf/2206.07956.pdf)][[Product][https://effidit.qq.com/]]
 
 - Ziqian Dai, Jianwei Yu, Yan Wang*, Nuo Chen, Yanyao Bian, Guangzhi Li, Deng Cai, Dong Yu. Automatic Prosody Annotation with Pre-Trained Text-Speech Model. Interspeech 2022 [[paper](https://arxiv.org/pdf/2206.07956.pdf)]
