@@ -4,7 +4,7 @@ My name is 王琰 (Yan Wang). I will join Tencent TEG on September 9, 2024. Proi
 
 ## News
 - 2024/08: A survey paper: "The Oscars of AI Theater: A Survey on Role-Playing with Language Models", released on Arxiv. 
-- 2024/07: Our paper "With Greater Text Comes Greater Necessity: Inference-Time Training Helps Long Text Generation" accepted by COLM.
+- 2024/07: Our paper "With Greater Text Comes Greater Necessity: Inference-Time Training Helps Long Text Generation" accepted by COLM 2024.
 - 2024/04: May be this is the new era of Game Engine: Our paper "Instruction-Driven Game Engines on Large Language Models", released on Arxiv. 
 - 2024/01: An interesting paper about long-text generation: "With Greater Text Comes Greater Necessity: Inference-Time Training Helps Long Text Generation", released on Arxiv. 
 - 2023/11: Paper "Large Language Models Meet Harry Potter: A Bilingual Dataset for Aligning LLMs with Characters", accepted by EMNLP findings, see you guys in Singapore!
@@ -26,7 +26,7 @@ My name is 王琰 (Yan Wang). I will join Tencent TEG on September 9, 2024. Proi
 
 ## Selected Publications (*=corresponding author)  
 - Nuo Chen, Yan Wang, Yang Deng, Jia Li. The Oscars of AI Theater: A Survey on Role-Playing with Language Models. Arxiv. 2024. [[paper](https://arxiv.org/abs/2407.11484)]
-- Y. Wang, D. Ma, D. Cai. With Greater Text Comes Greater Necessity: Inference-Time Training Helps Long Text Generation. COLM. 2024. [[paper](https://arxiv.org/abs/2401.11504)][[Social Media](https://www.qbitai.com/2024/02/118321.html)]
+- Y. Wang, DM, D. Cai. With Greater Text Comes Greater Necessity: Inference-Time Training Helps Long Text Generation. COLM. 2024. [[paper](https://arxiv.org/abs/2401.11504)][[Social Media](https://www.qbitai.com/2024/02/118321.html)]
 - Hongqiu Wui, Yan Wang*, Xingyuan Liu, Hai Zhao, Min Zhang. Instruction-Driven Game Engines on Large Language Models. Arxiv. 2024. [[paper](https://arxiv.org/abs/2404.00276)][[Social Media](https://www.jiqizhixin.com/articles/2024-04-17-5)]
 
 #### Retrieval-Guided Dialogue Generation
