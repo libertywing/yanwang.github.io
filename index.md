@@ -1,8 +1,10 @@
 # Welcome to Yan Wang's Homepage
-<!--
-My name is 王琰 (Yan Wang). I am currently the NLP topic owner of miHoYo. Proir to that, I was a senior researcher at Tencent AI Lab, working on Dialogue and Text Generation. I recieved my Ph.D. degree at City University of Hong Kong (CityU) in July 2017, under the instructions of Prof. Hanxiong Li. You can reach me through yanwang.branden(at)gmail.com
+
+My name is 王琰 (Yan Wang). I will join Tencent TEG on September 9, 2024. Proir to that, I served as a research scientist at Mihoyo and Tencent AI Lab, working on LLM-driven Role Playing and Retrieval-Augmented Generation. I recieved my Ph.D. degree at City University of Hong Kong (CityU) in July 2017, under the instructions of Prof. Hanxiong Li. You can reach me through yanwang.branden(at)gmail.com
 
 ## News
+- 2024/08: A survey paper: "The Oscars of AI Theater: A Survey on Role-Playing with Language Models", released on Arxiv. 
+- 2024/07: Our paper "With Greater Text Comes Greater Necessity: Inference-Time Training Helps Long Text Generation" accepted by COLM.
 - 2024/04: May be this is the new era of Game Engine: Our paper "Instruction-Driven Game Engines on Large Language Models", released on Arxiv. 
 - 2024/01: An interesting paper about long-text generation: "With Greater Text Comes Greater Necessity: Inference-Time Training Helps Long Text Generation", released on Arxiv. 
 - 2023/11: Paper "Large Language Models Meet Harry Potter: A Bilingual Dataset for Aligning LLMs with Characters", accepted by EMNLP findings, see you guys in Singapore!
@@ -23,7 +25,8 @@ My name is 王琰 (Yan Wang). I am currently the NLP topic owner of miHoYo. Proi
 [comment]: <> We are hiring (Full-time employees and Interns)! If you  1) have a strong background in the area of NLP research or engineering, 2) have a passion to save the world as a tech otaku, and 3) are not an overachiever (卷王). Please contact me! Please feel free to send me an email if you have any enquires. 
 
 ## Selected Publications (*=corresponding author)  
-- Y. Wang, D. Ma, D. Cai. With Greater Text Comes Greater Necessity: Inference-Time Training Helps Long Text Generation. Arxiv. 2024. [[paper](https://arxiv.org/abs/2401.11504)][[Social Media](https://www.qbitai.com/2024/02/118321.html)]
+- Nuo Chen, Yan Wang, Yang Deng, Jia Li. The Oscars of AI Theater: A Survey on Role-Playing with Language Models. Arxiv. 2024. [[paper](https://arxiv.org/abs/2407.11484)]
+- Y. Wang, D. Ma, D. Cai. With Greater Text Comes Greater Necessity: Inference-Time Training Helps Long Text Generation. COLM. 2024. [[paper](https://arxiv.org/abs/2401.11504)][[Social Media](https://www.qbitai.com/2024/02/118321.html)]
 - Hongqiu Wui, Yan Wang*, Xingyuan Liu, Hai Zhao, Min Zhang. Instruction-Driven Game Engines on Large Language Models. Arxiv. 2024. [[paper](https://arxiv.org/abs/2404.00276)][[Social Media](https://www.jiqizhixin.com/articles/2024-04-17-5)]
 
 #### Retrieval-Guided Dialogue Generation
@@ -80,12 +83,13 @@ My name is 王琰 (Yan Wang). I am currently the NLP topic owner of miHoYo. Proi
 ## Interns 
 
 #### Current Interns
+
+
+#### Past Interns
 - [Hongqiu Wu](https://bcmi.sjtu.edu.cn/home/wuhongqiu/) (PhD student at Shanghai Jiao Tong University)
 - Wenyang Hui (graduate student at ShanghaiTech University)
 - [Chengyue Jiang](https://jeffchy.github.io/) (PhD student at ShanghaiTech University)
 - Xiaotian Qi (graduate student at Communication University of China)
-
-#### Past Interns
 - [jiaan Wang](http://wangjiaan.cn/) (**miHoYo**, Soochow University, 08/2022 - 04/2023)
 - [Zhiling Zhang](https://github.com/blmoistawinde) (**miHoYo**, Shanghai Jiao Tong University, 08/2022 - 04/2023)
 - [Xinting Huang](https://timhuang1.github.io/) (**Tencent AI Lab**, University of Melbourne, 04/2022 - 08/2022)
@@ -118,5 +122,5 @@ As the captain of the Tencent Technology and Engineering Group basketball team, 
 I also served as the Chair of the Fitness Association of Tencent Technology and Engineering Group. 
 
 About ten years ago, I dreamed to be a professional E-sports player (RTS game). Now I am still a top-1000 player in the world in Warcraft III Ladder.
--->
+
 
