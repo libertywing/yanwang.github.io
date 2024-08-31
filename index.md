@@ -1,6 +1,6 @@
 # Welcome to Yan Wang's Homepage
 
-My name is 王琰 (Yan Wang). I will join Tencent TEG on September 9, 2024. Proir to that, I served as a research scientist at Mihoyo and Tencent AI Lab, working on LLM-driven Role Playing and Retrieval-Augmented Generation. I recieved my Ph.D. degree at City University of Hong Kong (CityU) in July 2017, under the instructions of Prof. Hanxiong Li. You can reach me through yanwang.branden(at)gmail.com
+My name is 王琰 (Yan Wang). I left miHoYo on August 20, 2024. Proir to that, I served as a research scientist at Mihoyo and Tencent AI Lab, working on LLM-driven Role Playing and Retrieval-Augmented Generation. I recieved my Ph.D. degree at City University of Hong Kong (CityU) in July 2017, under the instructions of Prof. Hanxiong Li. You can reach me through yanwang.branden(at)gmail.com
 
 ## News
 - 2024/08: A survey paper: "The Oscars of AI Theater: A Survey on Role-Playing with Language Models", released on Arxiv. 
