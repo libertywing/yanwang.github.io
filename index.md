@@ -26,8 +26,8 @@ My name is WANG Yan (王琰). I am a principal researcher at Tencent AI Platform
 [comment]: <> We are hiring (Full-time employees and Interns)! If you  1) have a strong background in the area of NLP research or engineering, 2) have a passion to save the world as a tech otaku, and 3) are not an overachiever (卷王). Please contact me! Please feel free to send me an email if you have any enquires. 
 
 ## Selected Publications (*=corresponding author)  
--Zhisong Zhang, Yan Wang, Xinting Huang, Tianqing Fang, Hongming Zhang, Chenlong Deng, Shuaiyi Li, Dong Yu., Attention Entropy is a Key Factor: An Analysis of Parallel Context Encoding with Full-attention-based Pre-trained Language Models. Arive. 2024. [[paper](https://arxiv.org/abs/2412.16545)]
--Dongyang Ma, Yan Wang*, Tian Lan. Block-Attention for Efficient RAG. ICLR 2025. [[paper](https://openreview.net/forum?id=7zNYY1E2fq)]
+- Zhisong Zhang, Yan Wang, Xinting Huang, Tianqing Fang, Hongming Zhang, Chenlong Deng, Shuaiyi Li, Dong Yu., Attention Entropy is a Key Factor: An Analysis of Parallel Context Encoding with Full-attention-based Pre-trained Language Models. Arive. 2024. [[paper](https://arxiv.org/abs/2412.16545)]
+- Dongyang Ma, Yan Wang*, Tian Lan. Block-Attention for Efficient RAG. ICLR 2025. [[paper](https://openreview.net/forum?id=7zNYY1E2fq)]
 - Nuo Chen, Yan Wang*, Yang Deng, Jia Li. The Oscars of AI Theater: A Survey on Role-Playing with Language Models. Arxiv. 2024. [[paper](https://arxiv.org/abs/2407.11484)]
 - Y. Wang, DM, D. Cai. With Greater Text Comes Greater Necessity: Inference-Time Training Helps Long Text Generation. COLM. 2024. [[paper](https://arxiv.org/abs/2401.11504)][[Social Media](https://www.qbitai.com/2024/02/118321.html)]
 - Hongqiu Wui, Yan Wang*, Xingyuan Liu, Hai Zhao, Min Zhang. Instruction-Driven Game Engines on Large Language Models. Arxiv. 2024. [[paper](https://arxiv.org/abs/2404.00276)][[Social Media](https://www.jiqizhixin.com/articles/2024-04-17-5)]
