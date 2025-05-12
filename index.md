@@ -3,6 +3,7 @@
 My name is WANG Yan (王琰). I am a principal researcher at Tencent AI Platform Department (also known as the Game AI department of Tencent AI Lab). Proir to that, I served as a research scientist at miHoYo and Tencent AI Lab, working on LLM-driven Role Playing and Retrieval-Augmented Generation. I recieved my Ph.D. degree at City University of Hong Kong (CityU) in July 2017, under the instructions of Prof. Hanxiong Li. You can reach me through yanwang.branden(at)gmail.com
 
 ## News
+- 2025/05: We will organize a tutorial at IJCAI 2025: "LLM-based Role-Playing from the Perspective of Hallucinations." See you in Guangzhou at the end of August!
 - 2025/01: We have made some progress on Parallel Context Encoding! Please pay attention to our ICLR paper "Block-Attention for efficient RAG" and the arXiv paper "Attention Entropy is a Key Factor: An Analysis of Parallel Context Encoding with Full-attention-based Pre-trained Language Models"
 - 2024/08: A survey paper: "The Oscars of AI Theater: A Survey on Role-Playing with Language Models", released on Arxiv. 
 - 2024/07: Our paper "With Greater Text Comes Greater Necessity: Inference-Time Training Helps Long Text Generation" accepted by COLM 2024.
@@ -15,7 +16,7 @@ My name is WANG Yan (王琰). I am a principal researcher at Tencent AI Platform
 - Organize a tutorial on Retrieval-Augmented Text Generation at CCL 2022
 - 2022/06: Two papers accepted by Interspeech 2022. 
 - Organized a tutorial on Retrieval-Augmented Text Generation at SIGIR 2022
-- Organize a tutorial on Retrieval-Augmented Text Generation at IJCAI 2022
+- Organized a tutorial on Retrieval-Augmented Text Generation at IJCAI 2022
 - 2022/04: Our AI writing assitant, Effidit (文涌), was lanuched. [Link](https://effidit.qq.com/)
 - 2021/07: Paper "Neural Machine Translation with Monolingual Translation Memory" was selected as the **outstanding paper** of ACL 2021. 
 - 2021/06: Two papers accepted by IEEE Transaction on Games, One paper accepted by TASLP. 
@@ -29,8 +30,8 @@ My name is WANG Yan (王琰). I am a principal researcher at Tencent AI Platform
 - Zhisong Zhang, Yan Wang, Xinting Huang, Tianqing Fang, Hongming Zhang, Chenlong Deng, Shuaiyi Li, Dong Yu., Attention Entropy is a Key Factor: An Analysis of Parallel Context Encoding with Full-attention-based Pre-trained Language Models. Arive. 2024. [[paper](https://arxiv.org/abs/2412.16545)]
 - Dongyang Ma, Yan Wang*, Tian Lan. Block-Attention for Efficient RAG. ICLR 2025. [[paper](https://openreview.net/forum?id=7zNYY1E2fq)]
 - Nuo Chen, Yan Wang*, Yang Deng, Jia Li. The Oscars of AI Theater: A Survey on Role-Playing with Language Models. Arxiv. 2024. [[paper](https://arxiv.org/abs/2407.11484)]
-- Y. Wang, DM, D. Cai. With Greater Text Comes Greater Necessity: Inference-Time Training Helps Long Text Generation. COLM. 2024. [[paper](https://arxiv.org/abs/2401.11504)][[Social Media](https://www.qbitai.com/2024/02/118321.html)]
-- Hongqiu Wui, Yan Wang*, Xingyuan Liu, Hai Zhao, Min Zhang. Instruction-Driven Game Engines on Large Language Models. Arxiv. 2024. [[paper](https://arxiv.org/abs/2404.00276)][[Social Media](https://www.jiqizhixin.com/articles/2024-04-17-5)]
+- Y. Wang, DM, D. Cai. With Greater Text Comes Greater Necessity: Inference-Time Training Helps Long Text Generation. COLM 2024. [[paper](https://arxiv.org/abs/2401.11504)][[Social Media](https://www.qbitai.com/2024/02/118321.html)]
+- Hongqiu Wui, Yan Wang*, Xingyuan Liu, Hai Zhao, Min Zhang. Instruction-Driven Game Engines on Large Language Models. EMNLP 2024. [[paper](https://arxiv.org/abs/2404.00276)][[Social Media](https://www.jiqizhixin.com/articles/2024-04-17-5)]
 
 #### Retrieval-Guided Dialogue Generation
 - Tian Lan, Deng Cai, Yan Wang*, Heyan Huang, Xian-Ling Mao. Copy is All You Need. ICLR 2023 [[paper](https://openreview.net/pdf?id=CROlOA9Nd8C)][[Social Media](https://zhuanlan.zhihu.com/p/647457020)]]
