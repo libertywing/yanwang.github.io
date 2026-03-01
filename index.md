@@ -1,6 +1,6 @@
 # Welcome to Yan Wang's Homepage
 
-My name is WANG Yan (王琰). I am a principal researcher at Tencent AI Lab and the Lead of the Model Architecture Exploration Group, where I am leading research on infinite-memory architectures. Proir to that, I served as a research scientist at miHoYo and Tencent AI Lab, working on LLM-driven Role Playing and Retrieval-Augmented Generation. I recieved my Ph.D. degree at City University of Hong Kong (CityU) in July 2017, under the instructions of Prof. Hanxiong Li. You can reach me through yanwang.branden(at)gmail.com
+My name is WANG Yan (王琰). I am a principal research scientist at Tencent AI Lab and the Lead of the Model Architecture Exploration Group, where I am leading research on infinite-memory architectures. Proir to that, I served as a research scientist at miHoYo and Tencent AI Lab, working on LLM-driven Role Playing and Retrieval-Augmented Generation. I recieved my Ph.D. degree at City University of Hong Kong (CityU) in July 2017, under the instructions of Prof. Hanxiong Li. You can reach me through yanwang.branden(at)gmail.com
 
 ## News
 - 2026/01: Two papers on LLM self-context engineering: "The Pensieve Paradigm" and "Free()LM." The former improves accuracy by 40% on Browsecomp, and the latter achieves a New SOTA on IMOAnswerBench.
@@ -89,34 +89,38 @@ My name is WANG Yan (王琰). I am a principal researcher at Tencent AI Lab and 
 ## Interns 
 
 #### Current Interns
-
+- Qifan Zhang(HKUST-GZ)
+- Zhichan Wang(CUHKSZ)
 
 #### Past Interns
-- [Hongqiu Wu](https://bcmi.sjtu.edu.cn/home/wuhongqiu/) (PhD student at Shanghai Jiao Tong University)
-- Wenyang Hui (Graduate student at ShanghaiTech University)
+- [Zhiwei He](CUHK, 06/25 - 12/25)
+- [Xiaoyuan Liu](https://xyliu-cs.github.io/)(CUHKSZ, 06/2025 - 03/2026)
+- [Hongqiu Wu](https://bcmi.sjtu.edu.cn/home/wuhongqiu/) (Annuttacon, Shanghai Jiao Tong University, 09/2023 - 06/2024)
+- Wenyang Hui (Graduate student at ShanghaiTech University, 09/2023 - 08/2024)
 - [Chengyue Jiang](https://jeffchy.github.io/) (**miHoYo**, ShanghaiTech University, 05/2023 - 08/2024)
 - Xiaotian Qi (**miHoYo**, Communication University of China, 12/2022 - 08/2024)
 - [jiaan Wang](http://wangjiaan.cn/) (**miHoYo**, Soochow University, 08/2022 - 04/2023)
 - [Zhiling Zhang](https://github.com/blmoistawinde) (**miHoYo**, Shanghai Jiao Tong University, 08/2022 - 04/2023)
 - [Xinting Huang](https://timhuang1.github.io/) (**Tencent AI Lab** and Tencent Hunyuan, University of Melbourne, 04/2022 - 08/2022)
-- Tian Lan (PhD student at Beijing Institute of Technology, 05/2021 - 06/2023)
+- Tian Lan (Alibaba Cloud, Beijing Institute of Technology, 05/2021 - 06/2023)
 - Junxin Li (Tencent and Huawei, Tsinghua University 10/2021-12/2022)
 - Dongyang Ma (**Tencent AI Lab** and **miHoYo**, Harbin Institute of Technology, 05/2021 - 08/2024)
-- [Nuo chen](https://nuochenpku.github.io/) (PhD student at HKUST, 11/2021 - 09/2022)
+- [Nuo chen](https://nuochenpku.github.io/) (principal research scientist at Tencent HunYuan, PhD student at HKUST, 11/2021 - 09/2022)
 - Ziqian Dai (China Telecom, Beijing University, 10/2021 - 05/2022)
 - [Deng Cai](https://jcyk.github.io/) (**Tencent AI Lab**, CUHK, ACL 2021 Outstanding Paper Award, 02/2018 - 03/2021)
 - Zibo Lin (Tencent Wechat, 08/2019 - 03/2021)
-- Zelong Yang (China Aerospace Science and Technology Corporation, 08/2019 - 03/2021)
-- [Haoyu Song](https://songhaoyu.github.io/) (Huawei Topmind(天才少年), Harbin Institute of Technology, 11/2019 - 03/2021)
+- Zelong Yang (China Aerospace Science and Technology Corporation, TsingHua University, 08/2019 - 03/2021)
+- [Haoyu Song](https://songhaoyu.github.io/) (Huawei Topmind, Harbin Institute of Technology, 11/2019 - 03/2021)
 - [Xiangru Tang](https://xiangrutang.github.io/) (PhD student at Yale University, 06/2020 - 09/2020)
 - Changying Hao (Baidu, 04/2020 - 09/2020)
 - [Yixuan Su](https://yxuansu.github.io/) (Cohere, University of Cambridge, 10/2018 - 08/2019, 05/2020 - 07/2021)
-- [Jiaxin Pei](https://jiaxin-pei.github.io/) (PhD student at University of Michigan, 03/2019 -  08/2019)
+- [Jiaxin Pei](https://jiaxin-pei.github.io/) (Assitant Professor at UT Austin, 03/2019 -  08/2019)
 - [Zhufeng Pan](https://www.linkedin.com/in/panzhufeng/) (Google Brain, 10/2018 - 09/2019)
 - Ziyang Chen (**Tencent AI Lab**, 03/2018 - 09/2018)
-- [Lei Wang](https://demoleiwang.github.io/HomePage/) (PhD student at Singapore Management University, 11/2017 - 03/2018)
+- [Lei Wang](https://demoleiwang.github.io/HomePage/) (MirroMind, Singapore Management University, 11/2017 - 03/2018)
 
 ## Collaborators
+- [Kewei Tu](https://faculty.sist.shanghaitech.edu.cn/faculty/tukw/) (professor and vice dean at ShanghaiTech University)
 - [Lingpeng Kong](https://ikekonglp.github.io/) (assistant professor at the University of Hong Kong, Tencent rhinobird cooperation project)
 - [Ruihua Song](http://ai.ruc.edu.cn/student/tutorGroup/048f1a24a0174c70912e5f29f145c7db.htm) (associate professor at Renmin University of China, Tencent rhinobird cooperation project)
 - [Liang Pang](http://www.bigdatalab.ac.cn/~pangliang/) (assistant professor at Institute of Computing Technology, Chinese Academy of Sciences, Tencent rhinobird cooperation project)
