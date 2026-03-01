@@ -1,32 +1,34 @@
 # Welcome to Yan Wang's Homepage
 
-My name is WANG Yan (王琰). I am a principal researcher at Tencent AI Platform Department (also known as the Game AI department of Tencent AI Lab). Proir to that, I served as a research scientist at miHoYo and Tencent AI Lab, working on LLM-driven Role Playing and Retrieval-Augmented Generation. I recieved my Ph.D. degree at City University of Hong Kong (CityU) in July 2017, under the instructions of Prof. Hanxiong Li. You can reach me through yanwang.branden(at)gmail.com
+My name is WANG Yan (王琰). I am a principal researcher at Tencent AI Lab and the Lead of the Model Architecture Exploration Group, where I am leading research on infinite-memory architectures. Proir to that, I served as a research scientist at miHoYo and Tencent AI Lab, working on LLM-driven Role Playing and Retrieval-Augmented Generation. I recieved my Ph.D. degree at City University of Hong Kong (CityU) in July 2017, under the instructions of Prof. Hanxiong Li. You can reach me through yanwang.branden(at)gmail.com
 
 ## News
+- 2026/01: Two papers on LLM self-context engineering: "The Pensieve Paradigm" and "Free()LM." The former improves accuracy by 40% on Browsecomp, and the latter achieves a New SOTA on IMOAnswerBench.
+
+- 2025/11: It's time to move beyond traditional decoding strategies! New Paper: "The End of Manual Decoding: Towards Truly End-to-End Language Models."
+
+- 2025/09: Interviewed by 机器之心 to discuss the future of LLM Memory. [Link](https://mp.weixin.qq.com/s/HYoyAJ5tV5FivXqeL0Vqjw)
+
+- 2025/07: Our paper "Predicting events in moba games: Prediction, attribution, and evaluation" was **nominated for the Best Paper Award** of IEEE Transactions on Games 2025.
 - 2025/05: We will organize a tutorial at IJCAI 2025: "LLM-based Role-Playing from the Perspective of Hallucinations." See you in Guangzhou at the end of August!
-- 2025/01: We have made some progress on Parallel Context Encoding! Please pay attention to our ICLR paper "Block-Attention for efficient RAG" and the arXiv paper "Attention Entropy is a Key Factor: An Analysis of Parallel Context Encoding with Full-attention-based Pre-trained Language Models"
-- 2024/08: A survey paper: "The Oscars of AI Theater: A Survey on Role-Playing with Language Models", released on Arxiv. 
+- 2025/01: We have made some progress on Parallel Context Encoding! Please pay attention to our ICLR paper "Block-Attention for efficient RAG" and the ACL paper "Attention Entropy is a Key Factor: An Analysis of Parallel Context Encoding with Full-attention-based Pre-trained Language Models"
 - 2024/07: Our paper "With Greater Text Comes Greater Necessity: Inference-Time Training Helps Long Text Generation" accepted by COLM 2024.
-- 2024/04: May be this is the new era of Game Engine: Our paper "Instruction-Driven Game Engines on Large Language Models", released on Arxiv. 
 - 2024/01: An interesting paper about long-text generation: "With Greater Text Comes Greater Necessity: Inference-Time Training Helps Long Text Generation", released on Arxiv. 
 - 2023/11: Paper "Large Language Models Meet Harry Potter: A Bilingual Dataset for Aligning LLMs with Characters", accepted by EMNLP findings, see you guys in Singapore!
-- 2023/05: Demo paper, "Effidit: An Assistant for Improving Writing Efficiency", accepted by ACL 2023. 
 - 2023/01: One milestone pape, "Copy is All You Need", accepted by ICLR 2023. 
 - 2022/09: One papers accepted by Neurips 2022. 
 - Organize a tutorial on Retrieval-Augmented Text Generation at CCL 2022
-- 2022/06: Two papers accepted by Interspeech 2022. 
 - Organized a tutorial on Retrieval-Augmented Text Generation at SIGIR 2022
 - Organized a tutorial on Retrieval-Augmented Text Generation at IJCAI 2022
 - 2022/04: Our AI writing assitant, Effidit (文涌), was lanuched. [Link](https://effidit.qq.com/)
 - 2021/07: Paper "Neural Machine Translation with Monolingual Translation Memory" was selected as the **outstanding paper** of ACL 2021. 
-- 2021/06: Two papers accepted by IEEE Transaction on Games, One paper accepted by TASLP. 
-- 2021/05: Four long papers accepted by ACL 2021 (3 Main and 1 Findings). 
-- 2020/09: Two long papers accepted by EMNLP 2020. (Main)
 
-[comment]: <> ## Opening Positions
-[comment]: <> We are hiring (Full-time employees and Interns)! If you  1) have a strong background in the area of NLP research or engineering, 2) have a passion to save the world as a tech otaku, and 3) are not an overachiever (卷王). Please contact me! Please feel free to send me an email if you have any enquires. 
 
-## Selected Publications (*=corresponding author)  
+## Selected Publications (*=corresponding author or project lead)  
+- Zhichao Wang, Dongyang Ma, Xinting Huang, Deng Cai, Tian Lan, Jiahao Xu, Haitao Mi, Xiaoying Tang, **Yan Wang***. The End of Manual Decoding: Towards Truly End-to-End Language Models. ICLR 2026. [[paper](https://arxiv.org/abs/2510.26697)]
+- Xiaoyuan Liu, Tian Liang, Dongyang Ma, Deyu Zhou, Haitao Mi, Pinjia He, **Yan Wang***. The Pensieve Paradigm: Stateful Language Models Mastering Their Own Context. ICLR 2026. [[paper](https://arxiv.org/abs/2602.12108)]
+- Yilun Zheng, Dongyang Ma, Tian Liang, Jiahao Xu, Xinting Huang, Lihui Chen, Haitao Mi, **Yan Wang***. Free(): Learning to Forget in Malloc-Only Reasoning Models. Arxiv. 2026. [[paper](https://arxiv.org/abs/2602.08030)]
+- Sidi Lu, Zhenwen Liang, Dongyang Ma, **Yan Wang***, Haitao Mi, Dong Yu. Locas: Your Models are Principled Initializers of Locally-Supported Parametric Memories. Arxiv. 2026. [[paper](https://arxiv.org/abs/2602.05085)]
 - Zhisong Zhang, Yan Wang, Xinting Huang, Tianqing Fang, Hongming Zhang, Chenlong Deng, Shuaiyi Li, Dong Yu., Attention Entropy is a Key Factor: An Analysis of Parallel Context Encoding with Full-attention-based Pre-trained Language Models. Arive. 2024. [[paper](https://arxiv.org/abs/2412.16545)]
 - Dongyang Ma, Yan Wang*, Tian Lan. Block-Attention for Efficient RAG. ICLR 2025. [[paper](https://openreview.net/forum?id=7zNYY1E2fq)]
 - Nuo Chen, Yan Wang*, Yang Deng, Jia Li. The Oscars of AI Theater: A Survey on Role-Playing with Language Models. Arxiv. 2024. [[paper](https://arxiv.org/abs/2407.11484)]
