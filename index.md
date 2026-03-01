@@ -1,6 +1,6 @@
 # Welcome to Yan Wang's Homepage
 
-My name is WANG Yan (王琰). I am a principal research scientist at Tencent AI Lab and the Lead of the Model Architecture Exploration Group, where I am leading research on infinite-memory architectures. Proir to that, I served as a research scientist at miHoYo and Tencent AI Lab, working on LLM-driven Role Playing and Retrieval-Augmented Generation. I recieved my Ph.D. degree at City University of Hong Kong (CityU) in July 2017, under the instructions of Prof. Hanxiong Li. You can reach me through yanwang.branden(at)gmail.com
+My name is WANG Yan (王琰). I am a principal research scientist at Tencent AI Lab and the Lead of the Model Architecture Exploration Group, where I am leading research on infinite-memory architectures. Proir to that, I served as a research scientist at miHoYo (2022-2024) and Tencent AI Lab (2017-2022), working on LLM-driven Role Playing and Knowledge-Augmented Model Architecture. I recieved my Ph.D. degree at City University of Hong Kong (CityU) in July 2017, under the instructions of Prof. Hanxiong Li. You can reach me through yanwang.branden(at)gmail.com
 
 ## News
 - 2026/01: Two papers on LLM self-context engineering: "The Pensieve Paradigm" and "Free()LM." The former improves accuracy by 40% on Browsecomp, and the latter achieves a New SOTA on IMOAnswerBench.
